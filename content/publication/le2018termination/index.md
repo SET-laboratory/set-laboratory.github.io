@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Le2018termination"
-authors: []
-date: 2019-10-02T14:33:56-05:00
+title: "Proving Conditional Termination for Smart Contracts"
+authors: [Ton Chanh Le, Lei Xu, Lin Chen, Weidong Shi]
+date: 2018-05-22
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-02T14:33:56-05:00
+publishDate: 2018-05-22T14:33:56-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Proceedings of the 2nd ACM Workshop on Blockchains, Cryptocurrencies, and Contracts"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://dl.acm.org/citation.cfm?id=3205239
 url_code:
 url_dataset:
 url_poster:

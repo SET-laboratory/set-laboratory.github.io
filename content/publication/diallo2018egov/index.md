@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Diallo2018egov"
-authors: []
-date: 2019-10-02T14:34:40-05:00
+title: "eGov-DAO: A better government using blockchain based decentralized autonomous organization"
+authors: [Nour Diallo, Weidong Shi, Lei Xu, Zhimin Gao, Lin Chen, Yang Lu, Nolan Shah, Larry Carranco, Ton-Chanh Le, Abraham Bez Surez, Glenn Turner]
+date: 2018-04-04
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-02T14:34:40-05:00
+publishDate: 2018-04-04T14:34:40-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8372356/
 url_code:
 url_dataset:
 url_poster:

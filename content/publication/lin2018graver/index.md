@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lin2018graver"
-authors: []
-date: 2019-10-02T14:34:23-05:00
+title: "On the Graver basis of block-structured integer programming"
+authors: [Lin Chen, Lei Xu, Weidong Shi]
+date: 2018-05-09
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-02T14:34:23-05:00
+publishDate: 2018-05-09T14:34:23-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/abs/1805.03741
 url_code:
 url_dataset:
 url_poster:
