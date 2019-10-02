@@ -13,6 +13,6 @@ superuser: true
 role: Security Enhancement Technology
 
 user_groups:
-- Researchers
+- Set
 ---
 Security has become one of the core values of the cyber world. We look at various aspects of security, including integrity, authenticity, availability, privacy, confidentiality, and verifiability.
