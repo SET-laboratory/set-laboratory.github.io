@@ -8,6 +8,5 @@ header:
   image: ""
 ---
 
-a
-sdfsdf
-sdfd
+## Fall 2019
+- CSCI aaaa, Fall 2019
