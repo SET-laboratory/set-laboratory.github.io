@@ -1,23 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Kim2019fpgaledger"
-authors: []
-date: 2019-10-02T10:46:18-05:00
+title: "FPGALedger: FPGA based Decentralized Ledger for Enterprise Applications"
+authors: [Han-Yee Kim, Taeweon Suh, Lei Xu, Weidong Shi]
+date: 2019-05-14
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-02T10:46:18-05:00
+publishDate: 2019-05-14
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "2019 IEEE International Conference on Blockchain and Cryptocurrency"
+publication_short: "ICBC"
 
 abstract: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8751364/
 url_code:
 url_dataset:
 url_poster:
