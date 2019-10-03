@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lei2014nes"
-authors: []
-date: 2019-10-03T14:31:00-05:00
+title: "NES++: number system for encryption based privacy preserving speaker verification"
+authors: [Lei Xu, Tao Feng, Xi Zhao, Weidong Shi]
+date: 2014-05-22
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-03T14:31:00-05:00
+publishDate: 2014-05-22
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Mobile Multimedia/Image Processing, Security, and Applications 2014"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9120/91200L/NES--number-system-for-encryption-based-privacy-preserving-speaker/10.1117/12.2053210.short
 url_code:
 url_dataset:
 url_poster:
