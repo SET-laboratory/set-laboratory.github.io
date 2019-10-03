@@ -1,23 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lin2017poet"
-authors: []
-date: 2019-10-02T14:36:26-05:00
+title: "On security analysis of proof-of-elapsed-time (PoET)"
+authors: [Lin Chen, Lei Xu, Nolan Shah, Zhimin Gao, Yang Lu, Weidong Shi]
+date: 2017-11-05
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-02T14:36:26-05:00
+publishDate: 2017-11-05T14:36:26-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "International Symposium on Stabilization, Safety, and Security of Distributed Systems"
+publication_short: "SSS"
 
 abstract: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-319-69084-1_19
 url_code:
 url_dataset:
 url_poster:

@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lin2017biased"
-authors: []
-date: 2019-10-02T14:39:19-05:00
+title: "Smart contract execution-the (+-)-biased ballot problem"
+authors: [Lin Chen, Lei Xu, Zhimin Gao, Nolan Shah, Yang Lu, Weidong Shi]
+date: 2017-12-31
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-02T14:39:19-05:00
+publishDate: 2017-12-31T14:39:39-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: http://drops.dagstuhl.de/opus/volltexte/2017/8238/
 url_code:
 url_dataset:
 url_poster:

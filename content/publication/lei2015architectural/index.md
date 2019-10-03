@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lei2015architectural"
-authors: []
-date: 2019-10-02T14:40:38-05:00
+title: "Architectural protection of application privacy against software and physical attacks in untrusted cloud environment"
+authors: [Lei Xu, JongHyuk Lee, Seung Hun Kim, Qingji Zheng, Shouhuai Xu, Taeweon Suh, Won Woo Ro, Weidong Shi]
+date: 2018-04-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-02T14:40:38-05:00
+publishDate: 2018-04-01T14:40:38-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "IEEE Transactions on Cloud Computing"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ieeexplore.ieee.org/abstract/document/7364212/
 url_code:
 url_dataset:
 url_poster:
