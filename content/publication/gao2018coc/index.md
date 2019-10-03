@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Gao2018coc"
-authors: []
-date: 2019-10-02T14:34:55-05:00
+title: "CoC: A unified distributed ledger based supply chain management system"
+authors: [Zhimin Gao, Lei Xu, Lin Chen, Xi Zhao, Yang Lu, Weidong Shi]
+date: 2018-03-01
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-02T14:34:55-05:00
+publishDate: 2018-03-01T14:34:55-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Journal of Computer Science and Technology"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://link.springer.com/article/10.1007/s11390-018-1816-5
 url_code:
 url_dataset:
 url_poster:
