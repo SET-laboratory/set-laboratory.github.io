@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Gao2015integrity"
-authors: []
-date: 2019-10-02T14:41:12-05:00
+title: "Integrity protection for big data processing with dynamic redundancy computation"
+authors: [Zhimin Gao, Nicholas Desalvo, Pham Dang Khoa, Seung Hun Kim, Lei Xu, Won Woo Ro, Rakesh M Verma, Weidong Shi]
+date: 2015-07-07
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-02T14:41:12-05:00
+publishDate: 2015-07-07T14:41:12-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ieeexplore.ieee.org/abstract/document/7266957/
 url_code:
 url_dataset:
 url_poster:

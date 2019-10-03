@@ -1,23 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lei2015abss"
-authors: []
-date: 2019-10-02T14:42:02-05:00
+title: "ABSS: An attribute-based sanitizable signature for integrity of outsourced database with public cloud"
+authors: [Lei Xu, Xinwen Zhang, Xiaoxin Wu, Weidong Shi]
+date: 2015-03-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-02T14:42:02-05:00
+publishDate: 2015-03-02T14:42:02-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Proceedings of the 5th ACM Conference on Data and Application Security and Privacy"
+publication_short: "CODASPY"
 
 abstract: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://dl.acm.org/citation.cfm?id=2699135
 url_code:
 url_dataset:
 url_poster:
