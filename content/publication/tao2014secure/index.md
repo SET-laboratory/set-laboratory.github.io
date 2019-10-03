@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Tao2014secure"
-authors: []
-date: 2019-10-03T14:29:46-05:00
+title: "Secure session on mobile: An exploration on combining biometric, trustzone, and user behavior"
+authors: [Tao Feng, Nicholas DeSalvo, Lei Xu, Xi Zhao, Xi Wang, Weidong Shi]
+date: 2014-11-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-03T14:29:46-05:00
+publishDate: 2014-11-06
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ieeexplore.ieee.org/abstract/document/7026301/
 url_code:
 url_dataset:
 url_poster:

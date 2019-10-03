@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lei2014removing"
-authors: []
-date: 2019-10-03T14:30:27-05:00
+title: "Removing the root of trust: Secure oblivious key establishment for FPGAs"
+authors: [Lei Xu, Weidong Shi]
+date: 2014-07-09
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-03T14:30:27-05:00
+publishDate: 2014-07-09
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "2014 IEEE Computer Society Annual Symposium on VLSI"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ieeexplore.ieee.org/abstract/document/6903353/
 url_code:
 url_dataset:
 url_poster:

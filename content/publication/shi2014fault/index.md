@@ -1,23 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Shi2014fault"
-authors: []
-date: 2019-10-03T14:29:59-05:00
+title: "Fault resilient physical neural networks on a single chip"
+authors: [Weidong Shi, Yuanfeng Wen, Ziyi Liu, Xi Zhao, Dainis Boumber, Ricardo Vilalta, Lei Xu]
+date: 2014-10-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-03T14:29:59-05:00
+publishDate: 2014-10-02
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "2014 International Conference on Compilers, Architecture and Synthesis for Embedded Systems"
+publication_short: "CASES"
 
 abstract: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://ieeexplore.ieee.org/abstract/document/6972477/
 url_code:
 url_dataset:
 url_poster:
