@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Lei2017sharing"
-authors: []
-date: 2019-10-02T14:38:16-05:00
+title: "Enabling the sharing economy: Privacy respecting contract based on public blockchain"
+authors: [Lei Xu, Nolan Shah, Lin Chen, Nour Diallo, Zhimin Gao, Yang Lu, Weidong Shi]
+date: 2017-04-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2019-10-02T14:38:16-05:00
+publishDate: 2017-04-02T14:38:16-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Proceedings of the ACM Workshop on Blockchain, Cryptocurrencies and Contracts"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://dl.acm.org/citation.cfm?id=3055527
 url_code:
 url_dataset:
 url_poster:
