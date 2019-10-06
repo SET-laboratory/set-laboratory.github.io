@@ -61,4 +61,4 @@ user_groups:
 - Faculty
 ---
 
-Lei Xu is an assitant professor at Computer Science Department, University of Texas Rio Grande Valley. His research interests include cryptography engineering, cloud/mobile/IoT security, blockchain, and other security enhancement technologies.
+Lei Xu is an assistant professor at Computer Science Department, University of Texas Rio Grande Valley. His research interests include cryptography engineering, cloud/mobile/IoT security, blockchain, and other security enhancement technologies.
