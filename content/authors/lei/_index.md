@@ -46,6 +46,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=DEYY1QYAAAAJ&hl=en
 - icon: orcid
+  icon_pack: ai
   link: https://orcid.org/0000-0002-7662-2119
 
 # Link to a PDF of your resume/CV from the About widget.
