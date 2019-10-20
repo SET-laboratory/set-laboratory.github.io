@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Scalable blockchain based smart contract execution"
+title: "Scalable Blockchain based Smart Contract Execution"
 authors: [Zhimin Gao, Lei Xu, Lin Chen, Nolan Shah, Yang Lu, Weidong Shi]
 date: 2017-12-15
 doi: ""

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FASTEN: An FPGA-based secure system for big data processing"
+title: "FASTEN: An FPGA-based Secure System for Big Data Processing"
 authors: [Boeui Hong, Han-Yee Kim, Minsu Kim, Taeweon Suh, Lei Xu, Weidong Shi]
 date: 2017-08-18
 doi: ""

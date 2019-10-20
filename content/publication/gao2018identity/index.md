@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Blockchain-based identity management with mobile device"
+title: "Blockchain-based Identity Management with Mobile Device"
 authors: [Zhimin Gao, Lei Xu, Glenn Turner, Brijesh Patel, Nour Diallo, Lin Chen, Weidong Shi]
 date: 2018-06-15
 doi: ""

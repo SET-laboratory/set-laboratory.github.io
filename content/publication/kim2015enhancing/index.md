@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Enhancing software dependability and security with hardware supported instruction address space randomization"
+title: "Enhancing Software Dependability and Security with Hardware Supported Instruction Address Space Randomization"
 authors: [Seung Hun Kim, Lei Xu, Ziyi Liu, Zhiqiang Lin, Won Woo Ro, Weidong Shi]
 date: 2015-06-22
 doi: ""

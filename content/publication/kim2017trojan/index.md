@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Evaluating coherence-exploiting hardware Trojan"
+title: "Evaluating Coherence-exploiting Hardware Trojan"
 authors: [Minsu Kim, Sunhee Kong, Boeui Hong, Lei Xu, Weidong Shi, Taeweon Suh]
 date: 2017-03-27
 doi: ""

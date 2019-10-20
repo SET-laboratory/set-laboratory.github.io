@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CoC: A unified distributed ledger based supply chain management system"
+title: "CoC: A Unified Distributed :edger based Supply Chain Management System"
 authors: [Zhimin Gao, Lei Xu, Lin Chen, Xi Zhao, Yang Lu, Weidong Shi]
 date: 2018-03-01
 doi: ""
