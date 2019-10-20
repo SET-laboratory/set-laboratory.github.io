@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Architectural protection of application privacy against software and physical attacks in untrusted cloud environment"
+title: "Architectural Protection of Application Privacy against Software and Physical Attacks in Untrusted Cloud Environment"
 authors: [Lei Xu, JongHyuk Lee, Seung Hun Kim, Qingji Zheng, Shouhuai Xu, Taeweon Suh, Won Woo Ro, Weidong Shi]
 date: 2018-04-01
 doi: ""

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Election with bribed voter uncertainty: Hardness and approximation algorithm"
+title: "Election with Bribed Voter Uncertainty: Hardness and Approximation Algorithm"
 authors: [Lin Chen, Lei Xu, Shouhuai Xu, Zhimin Gao, Weidong Shi]
 date: 2019-07-17
 doi: ""

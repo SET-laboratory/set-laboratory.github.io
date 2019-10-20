@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mobile user identity sensing using the motion sensor"
+title: "Mobile User Identity Sensing using the Motion Sensor"
 authors: [Xi Zhao, Tao Feng, Lei Xu, Weidong Shi]
 date: 2014-05-29
 doi: ""

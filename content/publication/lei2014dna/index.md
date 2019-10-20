@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Privacy preserving large scale DNA read-mapping in MapReduce framework using FPGAs"
+title: "Privacy Preserving Large Scale DNA Read-mapping in MapReduce Framework using FPGAs"
 authors: [Lei Xu, Hanyee Kim, Xi Wang, Weidong Shi, Taeweon Suh]
 date: 2014-09-02
 doi: ""

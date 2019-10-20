@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Secure session on mobile: An exploration on combining biometric, trustzone, and user behavior"
+title: "Secure Session on Mobile: An Exploration on Combining Biometric, TrustZone, and User Behavior"
 authors: [Tao Feng, Nicholas DeSalvo, Lei Xu, Xi Zhao, Xi Wang, Weidong Shi]
 date: 2014-11-06
 doi: ""

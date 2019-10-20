@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Removing the root of trust: Secure oblivious key establishment for FPGAs"
+title: "Removing the Root of Trust: Secure Oblivious Key Establishment for FPGAs"
 authors: [Lei Xu, Weidong Shi]
 date: 2014-07-09
 doi: ""

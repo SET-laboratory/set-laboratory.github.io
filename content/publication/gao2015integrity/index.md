@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Integrity protection for big data processing with dynamic redundancy computation"
+title: "Integrity Protection for Big Data Processing with Dynamic Redundancy Computation"
 authors: [Zhimin Gao, Nicholas Desalvo, Pham Dang Khoa, Seung Hun Kim, Lei Xu, Won Woo Ro, Rakesh M Verma, Weidong Shi]
 date: 2015-07-07
 doi: ""

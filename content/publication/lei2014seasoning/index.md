@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Seasoning effect based side channel attacks to AES implementation with phase change memory"
+title: "Seasoning Effect based Side Channel Attacks to AES Implementation with Phase Change Memory"
 authors: [Lei Xu, Weidong Shi, Nicholas Desalvo]
 date: 2014-06-15
 doi: ""

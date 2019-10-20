@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Fault resilient physical neural networks on a single chip"
+title: "Fault Resilient Physical Neural Networks on a Single Chip"
 authors: [Weidong Shi, Yuanfeng Wen, Ziyi Liu, Xi Zhao, Dainis Boumber, Ricardo Vilalta, Lei Xu]
 date: 2014-10-02
 doi: ""

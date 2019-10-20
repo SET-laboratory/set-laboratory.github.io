@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Smart contract execution-the (+-)-biased ballot problem"
+title: "Smart Contract Execution-the (+-)-biased Ballot Problem"
 authors: [Lin Chen, Lei Xu, Zhimin Gao, Nolan Shah, Yang Lu, Weidong Shi]
 date: 2017-12-31
 doi: ""

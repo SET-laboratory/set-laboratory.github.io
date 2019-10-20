@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "On the Graver basis of block-structured integer programming"
+title: "On the Graver Basis of Block-structured Integer Programming"
 authors: [Lin Chen, Lei Xu, Weidong Shi]
 date: 2018-05-09
 doi: ""

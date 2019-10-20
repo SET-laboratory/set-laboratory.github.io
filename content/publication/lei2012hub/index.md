@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Hub: Heterogeneous bucketization for database outsourcing"
+title: "Hub: Heterogeneous Bucketization for Database Outsourcing"
 authors: [Lei Xu, Xiaoxin Wu]
 date: 2013-05-08
 doi: ""

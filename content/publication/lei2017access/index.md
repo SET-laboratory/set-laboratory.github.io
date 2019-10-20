@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "DL-BAC: Distributed ledger based access control for web applications"
+title: "DL-BAC: Distributed Ledger based Access Control for Web Applications"
 authors: [Lei Xu, Lin Chen, Nolan Shah, Zhimin Gao, Yang Lu, Weidong Shi]
 date: 2017-04-03
 doi: ""

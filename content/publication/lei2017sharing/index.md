@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Enabling the sharing economy: Privacy respecting contract based on public blockchain"
+title: "Enabling the Sharing economy: Privacy Respecting Contract based on Public Blockchain"
 authors: [Lei Xu, Nolan Shah, Lin Chen, Nour Diallo, Zhimin Gao, Yang Lu, Weidong Shi]
 date: 2017-04-02
 doi: ""

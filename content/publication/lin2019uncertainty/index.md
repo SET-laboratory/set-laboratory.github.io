@@ -1,13 +1,13 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "NES++: Number System for Encryption based Privacy Preserving Speaker Verification"
-authors: [Lei Xu, Tao Feng, Xi Zhao, Weidong Shi]
-date: 2014-05-22
+title: "Election with bribe-effect uncertainty: A dichotomy result"
+authors: [Lin Chen, Lei Xu, Shouhuai Xu, Zhimin Gao, Weidong Shi]
+date: 2019-08-10
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2014-05-22
+publishDate: 2019-08-10
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: 2014-05-22
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Mobile Multimedia/Image Processing, Security, and Applications 2014"
-publication_short: ""
+publication: "Proceedings of the 28th International Joint Conference on Artificial Intelligence"
+publication_short: "IJCAI"
 
 abstract: ""
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9120/91200L/NES--number-system-for-encryption-based-privacy-preserving-speaker/10.1117/12.2053210.short
+url_pdf: https://dl.acm.org/citation.cfm?id=3367056
 url_code:
 url_dataset:
 url_poster:

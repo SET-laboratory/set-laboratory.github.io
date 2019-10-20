@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "eGov-DAO: A better government using blockchain based decentralized autonomous organization"
+title: "eGov-DAO: A Better Government using Blockchain based Decentralized Autonomous Organization"
 authors: [Nour Diallo, Weidong Shi, Lei Xu, Zhimin Gao, Lin Chen, Yang Lu, Nolan Shah, Larry Carranco, Ton-Chanh Le, Abraham Bez Surez, Glenn Turner]
 date: 2018-04-04
 doi: ""

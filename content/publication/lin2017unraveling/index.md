@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Unraveling blockchain based crypto-currency system supporting oblivious transactions: a formalized approach"
+title: "Unraveling Blockchain based Crypto-currency System Supporting Oblivious Transactions: a Formalized Approach"
 authors: [Lin Chen, Lei Xu, Nolan Shah, Nour Diallo, Zhimin Gao, Yang Lu, Weidong Shi]
 date: 2017-04-02
 doi: ""

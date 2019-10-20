@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "On security analysis of proof-of-elapsed-time (PoET)"
+title: "On Security Analysis of Proof-of-elapsed-time (PoET)"
 authors: [Lin Chen, Lei Xu, Nolan Shah, Zhimin Gao, Yang Lu, Weidong Shi]
 date: 2017-11-05
 doi: ""

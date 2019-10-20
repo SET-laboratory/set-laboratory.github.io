@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "PFC: Privacy preserving FPGA cloud-a case study of MapReduce"
+title: "PFC: Privacy Preserving FPGA cloud - a Case Study of MapReduce"
 authors: [Lei Xu, Weidong Shi, Taeweon Suh]
 date: 2014-06-27
 doi: ""

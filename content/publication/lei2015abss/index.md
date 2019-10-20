@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "ABSS: An attribute-based sanitizable signature for integrity of outsourced database with public cloud"
+title: "ABSS: An Attribute-based Sanitizable Signature for Integrity of Outsourced Database with Public Cloud"
 authors: [Lei Xu, Xinwen Zhang, Xiaoxin Wu, Weidong Shi]
 date: 2015-03-02
 doi: ""

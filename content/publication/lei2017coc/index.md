@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "CoC: secure supply chain management system based on public ledger"
+title: "CoC: Secure Supply Chain Management System based on Public Ledger"
 authors: [Lei Xu, Lin Chen, Zhimin Gao, Yang Lu, Weidong Shi]
 date: 2017-07-31
 doi: ""

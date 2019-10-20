@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Another look at secure big data processing: Formal framework and a potential approach"
+title: "Another Look at Secure Big Data Processing: Formal Framework and a Potential Approach"
 authors: [Lei Xu, Pham Dang Khoa, Seung Hun Kim, Won Woo Ro, Weidong Shi]
 date: 2015-06-27
 doi: ""

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The game among bribers in a smart contract system"
+title: "The Game among Bribers in a Smart Contract System"
 authors: [Lin Chen, Lei Xu, Zhimin Gao, Nolan Shah, Ton Chanh Le, Yang Lu, Weidong Shi]
 date: 2018-08-26
 doi: ""

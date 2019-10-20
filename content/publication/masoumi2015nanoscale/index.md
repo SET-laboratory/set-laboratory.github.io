@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nanoscale cryptography: opportunities and challenges"
+title: "Nanoscale Cryptography: Opportunities and Challenges"
 authors: [Massoud Masoumi, Weidong Shi, Lei Xu]
 date: 2015-11-02
 doi: ""

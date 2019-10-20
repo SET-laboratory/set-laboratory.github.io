@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Protecting election from bribery: new approach and computational complexity characterization"
+title: "Protecting Election from Bribery: New Approach and Computational Complexity Characterization"
 authors: [Lin Chen, Lei Xu, Shouhuai Xu, Zhimin Gao, Nolan Shah, Yang Lu, Weidong Shi]
 date: 2018-07-09
 doi: ""
