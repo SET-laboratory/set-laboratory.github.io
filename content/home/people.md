@@ -12,7 +12,7 @@ subtitle = ""
 #   Edit each user's `user_groups` to add them to one or more of these groups.
 [content]
 
-user_groups = ["Faculty"]
+user_groups = ["Faculty", "Set"]
 
 [design]
   show_social = false
