@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taeweon Suh | SET</title>
+    <link>https://set-laboratory.github.io/authors/taeweon-suh/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/taeweon-suh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taeweon Suh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>Taeweon Suh</title>
+      <link>https://set-laboratory.github.io/authors/taeweon-suh/</link>
+    </image>
+    
+    <item>
+      <title>SafeDB: Spark Acceleration on FPGA Clouds with Enclaved Data Processing and Bitstream Protection</title>
+      <link>https://set-laboratory.github.io/publication/kim2019safedb/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/kim2019safedb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGALedger: FPGA based Decentralized Ledger for Enterprise Applications</title>
+      <link>https://set-laboratory.github.io/publication/kim2019fpgaledger/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/kim2019fpgaledger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architectural Protection of Application Privacy against Software and Physical Attacks in Untrusted Cloud Environment</title>
+      <link>https://set-laboratory.github.io/publication/lei2015architectural/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2015architectural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FASTEN: An FPGA-based Secure System for Big Data Processing</title>
+      <link>https://set-laboratory.github.io/publication/hong2017fasten/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/hong2017fasten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Coherence-exploiting Hardware Trojan</title>
+      <link>https://set-laboratory.github.io/publication/kim2017trojan/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/kim2017trojan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Preserving Large Scale DNA Read-mapping in MapReduce Framework using FPGAs</title>
+      <link>https://set-laboratory.github.io/publication/lei2014dna/</link>
+      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2014dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PFC: Privacy Preserving FPGA cloud - a Case Study of MapReduce</title>
+      <link>https://set-laboratory.github.io/publication/lei2014pfc/</link>
+      <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2014pfc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

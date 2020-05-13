@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | SET</title>
+    <link>https://set-laboratory.github.io/publication_types/2/</link>
+      <atom:link href="https://set-laboratory.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>2</title>
+      <link>https://set-laboratory.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Tyranny of the Majority: On the (Im) possibility of Correctness of Smart Contracts</title>
+      <link>https://set-laboratory.github.io/publication/lin2018tyranny/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lin2018tyranny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architectural Protection of Application Privacy against Software and Physical Attacks in Untrusted Cloud Environment</title>
+      <link>https://set-laboratory.github.io/publication/lei2015architectural/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2015architectural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoC: A Unified Distributed :edger based Supply Chain Management System</title>
+      <link>https://set-laboratory.github.io/publication/gao2018coc/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/gao2018coc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Public Blockchain Client for Lightweight Users</title>
+      <link>https://set-laboratory.github.io/publication/lei2018lightweight/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2018lightweight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FASTEN: An FPGA-based Secure System for Big Data Processing</title>
+      <link>https://set-laboratory.github.io/publication/hong2017fasten/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/hong2017fasten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanoscale Cryptography: Opportunities and Challenges</title>
+      <link>https://set-laboratory.github.io/publication/masoumi2015nanoscale/</link>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/masoumi2015nanoscale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

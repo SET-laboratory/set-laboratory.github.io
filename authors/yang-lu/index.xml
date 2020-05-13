@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yang Lu | SET</title>
+    <link>https://set-laboratory.github.io/authors/yang-lu/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/yang-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yang Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>Yang Lu</title>
+      <link>https://set-laboratory.github.io/authors/yang-lu/</link>
+    </image>
+    
+    <item>
+      <title>Tyranny of the Majority: On the (Im) possibility of Correctness of Smart Contracts</title>
+      <link>https://set-laboratory.github.io/publication/lin2018tyranny/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lin2018tyranny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross Chain Bribery Contracts: Majority vs Mighty Minority</title>
+      <link>https://set-laboratory.github.io/publication/tran2019cross/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/tran2019cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Game among Bribers in a Smart Contract System</title>
+      <link>https://set-laboratory.github.io/publication/lin2018game/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lin2018game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting Election from Bribery: New Approach and Computational Complexity Characterization</title>
+      <link>https://set-laboratory.github.io/publication/lin2018protecting/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lin2018protecting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protecting Early Stage Proof-of-Work Based Public Blockchain</title>
+      <link>https://set-laboratory.github.io/publication/lin2018earlychain/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lin2018earlychain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eGov-DAO: A Better Government using Blockchain based Decentralized Autonomous Organization</title>
+      <link>https://set-laboratory.github.io/publication/diallo2018egov/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/diallo2018egov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoC: A Unified Distributed :edger based Supply Chain Management System</title>
+      <link>https://set-laboratory.github.io/publication/gao2018coc/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/gao2018coc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Contract Execution-the (&#43;-)-biased Ballot Problem</title>
+      <link>https://set-laboratory.github.io/publication/lin2017biased/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lin2017biased/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Blockchain based Smart Contract Execution</title>
+      <link>https://set-laboratory.github.io/publication/gao2017scalable/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/gao2017scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Execution of Smart Contracts: Agent Model Perspective and Its Implications</title>
+      <link>https://set-laboratory.github.io/publication/lin2017execution/</link>
+      <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lin2017execution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Security Analysis of Proof-of-elapsed-time (PoET)</title>
+      <link>https://set-laboratory.github.io/publication/lin2017poet/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lin2017poet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoC: Secure Supply Chain Management System based on Public Ledger</title>
+      <link>https://set-laboratory.github.io/publication/lei2017coc/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2017coc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZeroTrade: Privacy Respecting Assets Trading System Based on Public Ledger</title>
+      <link>https://set-laboratory.github.io/publication/lei2017zerotrade/</link>
+      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2017zerotrade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DL-BAC: Distributed Ledger based Access Control for Web Applications</title>
+      <link>https://set-laboratory.github.io/publication/lei2017access/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2017access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enabling the Sharing economy: Privacy Respecting Contract based on Public Blockchain</title>
+      <link>https://set-laboratory.github.io/publication/lei2017sharing/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2017sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unraveling Blockchain based Crypto-currency System Supporting Oblivious Transactions: a Formalized Approach</title>
+      <link>https://set-laboratory.github.io/publication/lin2017unraveling/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lin2017unraveling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dongdai Lin | SET</title>
+    <link>https://set-laboratory.github.io/authors/dongdai-lin/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/dongdai-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dongdai Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>Dongdai Lin</title>
+      <link>https://set-laboratory.github.io/authors/dongdai-lin/</link>
+    </image>
+    
+    <item>
+      <title>ECDLP on GPU</title>
+      <link>https://set-laboratory.github.io/publication/lei2010ecdlp/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2010ecdlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reﬁnement of Miller’s Algorithm Over Edwards Curves</title>
+      <link>https://set-laboratory.github.io/publication/lei2010refinement/</link>
+      <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2010refinement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

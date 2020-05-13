@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ton-Chanh Le | SET</title>
+    <link>https://set-laboratory.github.io/authors/ton-chanh-le/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/ton-chanh-le/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ton-Chanh Le</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>Ton-Chanh Le</title>
+      <link>https://set-laboratory.github.io/authors/ton-chanh-le/</link>
+    </image>
+    
+    <item>
+      <title>The Game among Bribers in a Smart Contract System</title>
+      <link>https://set-laboratory.github.io/publication/lin2018game/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lin2018game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proving Conditional Termination for Smart Contracts</title>
+      <link>https://set-laboratory.github.io/publication/le2018termination/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/le2018termination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eGov-DAO: A Better Government using Blockchain based Decentralized Autonomous Organization</title>
+      <link>https://set-laboratory.github.io/publication/diallo2018egov/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/diallo2018egov/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

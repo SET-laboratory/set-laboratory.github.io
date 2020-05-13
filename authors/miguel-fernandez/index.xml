@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miguel Fernandez | SET</title>
+    <link>https://set-laboratory.github.io/authors/miguel-fernandez/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/miguel-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miguel Fernandez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2019 23:58:27 -0600</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>Miguel Fernandez</title>
+      <link>https://set-laboratory.github.io/authors/miguel-fernandez/</link>
+    </image>
+    
+    <item>
+      <title>PrivateEx: Privacy Preserving Exchange of Crypto-assets on Blockchain</title>
+      <link>https://set-laboratory.github.io/publication/lei2019privateex/</link>
+      <pubDate>Mon, 23 Dec 2019 23:58:27 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2019privateex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
