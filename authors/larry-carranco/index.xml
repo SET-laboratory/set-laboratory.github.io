@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Larry Carranco | SET</title>
-    <link>https://set-laboratory.github.io/authors/larry-carranco/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/larry-carranco/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.githu.io/authors/larry-carranco/</link>
+      <atom:link href="https://set-laboratory.githu.io/authors/larry-carranco/index.xml" rel="self" type="application/rss+xml" />
     <description>Larry Carranco</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>https://set-laboratory.githu.io/img/icon-192.png</url>
       <title>Larry Carranco</title>
-      <link>https://set-laboratory.github.io/authors/larry-carranco/</link>
+      <link>https://set-laboratory.githu.io/authors/larry-carranco/</link>
     </image>
     
     <item>
       <title>eGov-DAO: A Better Government using Blockchain based Decentralized Autonomous Organization</title>
-      <link>https://set-laboratory.github.io/publication/diallo2018egov/</link>
+      <link>https://set-laboratory.githu.io/publication/diallo2018egov/</link>
       <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/diallo2018egov/</guid>
+      <guid>https://set-laboratory.githu.io/publication/diallo2018egov/</guid>
       <description></description>
     </item>
     

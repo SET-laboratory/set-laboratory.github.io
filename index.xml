@@ -2,437 +2,445 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SET</title>
-    <link>https://set-laboratory.github.io/</link>
-      <atom:link href="https://set-laboratory.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.githu.io/</link>
+      <atom:link href="https://set-laboratory.githu.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SET</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2019 23:58:27 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>https://set-laboratory.githu.io/img/icon-192.png</url>
       <title>SET</title>
-      <link>https://set-laboratory.github.io/</link>
+      <link>https://set-laboratory.githu.io/</link>
     </image>
     
     <item>
+      <title>DIoTA: Decentralized-Ledger-Based Framework for Data Authenticity Protection in IoT Systems</title>
+      <link>https://set-laboratory.githu.io/publication/xu2020diota/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.githu.io/publication/xu2020diota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PrivateEx: Privacy Preserving Exchange of Crypto-assets on Blockchain</title>
-      <link>https://set-laboratory.github.io/publication/lei2019privateex/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2019privateex/</link>
       <pubDate>Mon, 23 Dec 2019 23:58:27 -0600</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2019privateex/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2019privateex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockchain for IoT</title>
-      <link>https://set-laboratory.github.io/project/blockchain-iot/</link>
+      <link>https://set-laboratory.githu.io/project/blockchain-iot/</link>
       <pubDate>Fri, 29 Nov 2019 21:33:28 -0600</pubDate>
-      <guid>https://set-laboratory.github.io/project/blockchain-iot/</guid>
+      <guid>https://set-laboratory.githu.io/project/blockchain-iot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Private and Atomic Exchange of Assets over Zero Knowledge Based Payment Ledger</title>
-      <link>https://set-laboratory.github.io/publication/gao2018private/</link>
+      <link>https://set-laboratory.githu.io/publication/gao2018private/</link>
       <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/gao2018private/</guid>
+      <guid>https://set-laboratory.githu.io/publication/gao2018private/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Election with bribe-effect uncertainty: A dichotomy result</title>
-      <link>https://set-laboratory.github.io/publication/lin2019uncertainty/</link>
+      <link>https://set-laboratory.githu.io/publication/lin2019uncertainty/</link>
       <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2019uncertainty/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lin2019uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Election with Bribed Voter Uncertainty: Hardness and Approximation Algorithm</title>
-      <link>https://set-laboratory.github.io/publication/lin2019election/</link>
+      <link>https://set-laboratory.githu.io/publication/lin2019election/</link>
       <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2019election/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lin2019election/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SafeDB: Spark Acceleration on FPGA Clouds with Enclaved Data Processing and Bitstream Protection</title>
-      <link>https://set-laboratory.github.io/publication/kim2019safedb/</link>
+      <link>https://set-laboratory.githu.io/publication/kim2019safedb/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/kim2019safedb/</guid>
+      <guid>https://set-laboratory.githu.io/publication/kim2019safedb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tyranny of the Majority: On the (Im) possibility of Correctness of Smart Contracts</title>
-      <link>https://set-laboratory.github.io/publication/lin2018tyranny/</link>
+      <link>https://set-laboratory.githu.io/publication/lin2018tyranny/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2018tyranny/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lin2018tyranny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross Chain Bribery Contracts: Majority vs Mighty Minority</title>
-      <link>https://set-laboratory.github.io/publication/tran2019cross/</link>
+      <link>https://set-laboratory.githu.io/publication/tran2019cross/</link>
       <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/tran2019cross/</guid>
+      <guid>https://set-laboratory.githu.io/publication/tran2019cross/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DAcc: Decentralized Ledger based Access Control for Enterprise Applications</title>
-      <link>https://set-laboratory.github.io/publication/markus2019dacc/</link>
+      <link>https://set-laboratory.githu.io/publication/markus2019dacc/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/markus2019dacc/</guid>
+      <guid>https://set-laboratory.githu.io/publication/markus2019dacc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FPGALedger: FPGA based Decentralized Ledger for Enterprise Applications</title>
-      <link>https://set-laboratory.github.io/publication/kim2019fpgaledger/</link>
+      <link>https://set-laboratory.githu.io/publication/kim2019fpgaledger/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/kim2019fpgaledger/</guid>
+      <guid>https://set-laboratory.githu.io/publication/kim2019fpgaledger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Binding the Physical and Cyber Worlds: A Blockchain Approach for Cargo Supply Chain Security Enhancement</title>
-      <link>https://set-laboratory.github.io/publication/lei2018binding/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2018binding/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2018binding/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2018binding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Game among Bribers in a Smart Contract System</title>
-      <link>https://set-laboratory.github.io/publication/lin2018game/</link>
+      <link>https://set-laboratory.githu.io/publication/lin2018game/</link>
       <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2018game/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lin2018game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protecting Election from Bribery: New Approach and Computational Complexity Characterization</title>
-      <link>https://set-laboratory.github.io/publication/lin2018protecting/</link>
+      <link>https://set-laboratory.githu.io/publication/lin2018protecting/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2018protecting/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lin2018protecting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protecting Early Stage Proof-of-Work Based Public Blockchain</title>
-      <link>https://set-laboratory.github.io/publication/lin2018earlychain/</link>
+      <link>https://set-laboratory.githu.io/publication/lin2018earlychain/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2018earlychain/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lin2018earlychain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockchain-based Identity Management with Mobile Device</title>
-      <link>https://set-laboratory.github.io/publication/gao2018identity/</link>
+      <link>https://set-laboratory.githu.io/publication/gao2018identity/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/gao2018identity/</guid>
+      <guid>https://set-laboratory.githu.io/publication/gao2018identity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Proving Conditional Termination for Smart Contracts</title>
-      <link>https://set-laboratory.github.io/publication/le2018termination/</link>
+      <link>https://set-laboratory.githu.io/publication/le2018termination/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/le2018termination/</guid>
+      <guid>https://set-laboratory.githu.io/publication/le2018termination/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Graver Basis of Block-structured Integer Programming</title>
-      <link>https://set-laboratory.github.io/publication/lin2018graver/</link>
+      <link>https://set-laboratory.githu.io/publication/lin2018graver/</link>
       <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2018graver/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lin2018graver/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eGov-DAO: A Better Government using Blockchain based Decentralized Autonomous Organization</title>
-      <link>https://set-laboratory.github.io/publication/diallo2018egov/</link>
+      <link>https://set-laboratory.githu.io/publication/diallo2018egov/</link>
       <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/diallo2018egov/</guid>
+      <guid>https://set-laboratory.githu.io/publication/diallo2018egov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Architectural Protection of Application Privacy against Software and Physical Attacks in Untrusted Cloud Environment</title>
-      <link>https://set-laboratory.github.io/publication/lei2015architectural/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2015architectural/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2015architectural/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2015architectural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CoC: A Unified Distributed :edger based Supply Chain Management System</title>
-      <link>https://set-laboratory.github.io/publication/gao2018coc/</link>
+      <link>https://set-laboratory.githu.io/publication/gao2018coc/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/gao2018coc/</guid>
+      <guid>https://set-laboratory.githu.io/publication/gao2018coc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Public Blockchain Client for Lightweight Users</title>
-      <link>https://set-laboratory.github.io/publication/lei2018lightweight/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2018lightweight/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2018lightweight/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2018lightweight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EPBC: Efficient Public Blockchain Client for lightweight users</title>
-      <link>https://set-laboratory.github.io/publication/lei2017epbc/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2017epbc/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2017epbc/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2017epbc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart Contract Execution-the (&#43;-)-biased Ballot Problem</title>
-      <link>https://set-laboratory.github.io/publication/lin2017biased/</link>
+      <link>https://set-laboratory.githu.io/publication/lin2017biased/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2017biased/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lin2017biased/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable Blockchain based Smart Contract Execution</title>
-      <link>https://set-laboratory.github.io/publication/gao2017scalable/</link>
+      <link>https://set-laboratory.githu.io/publication/gao2017scalable/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/gao2017scalable/</guid>
+      <guid>https://set-laboratory.githu.io/publication/gao2017scalable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decentralized Execution of Smart Contracts: Agent Model Perspective and Its Implications</title>
-      <link>https://set-laboratory.github.io/publication/lin2017execution/</link>
+      <link>https://set-laboratory.githu.io/publication/lin2017execution/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2017execution/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lin2017execution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Security Analysis of Proof-of-elapsed-time (PoET)</title>
-      <link>https://set-laboratory.github.io/publication/lin2017poet/</link>
+      <link>https://set-laboratory.githu.io/publication/lin2017poet/</link>
       <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2017poet/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lin2017poet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FASTEN: An FPGA-based Secure System for Big Data Processing</title>
-      <link>https://set-laboratory.github.io/publication/hong2017fasten/</link>
+      <link>https://set-laboratory.githu.io/publication/hong2017fasten/</link>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/hong2017fasten/</guid>
+      <guid>https://set-laboratory.githu.io/publication/hong2017fasten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CoC: Secure Supply Chain Management System based on Public Ledger</title>
-      <link>https://set-laboratory.github.io/publication/lei2017coc/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2017coc/</link>
       <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2017coc/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2017coc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZeroTrade: Privacy Respecting Assets Trading System Based on Public Ledger</title>
-      <link>https://set-laboratory.github.io/publication/lei2017zerotrade/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2017zerotrade/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2017zerotrade/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2017zerotrade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DL-BAC: Distributed Ledger based Access Control for Web Applications</title>
-      <link>https://set-laboratory.github.io/publication/lei2017access/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2017access/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2017access/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2017access/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling the Sharing economy: Privacy Respecting Contract based on Public Blockchain</title>
-      <link>https://set-laboratory.github.io/publication/lei2017sharing/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2017sharing/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2017sharing/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2017sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unraveling Blockchain based Crypto-currency System Supporting Oblivious Transactions: a Formalized Approach</title>
-      <link>https://set-laboratory.github.io/publication/lin2017unraveling/</link>
+      <link>https://set-laboratory.githu.io/publication/lin2017unraveling/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2017unraveling/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lin2017unraveling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating Coherence-exploiting Hardware Trojan</title>
-      <link>https://set-laboratory.github.io/publication/kim2017trojan/</link>
+      <link>https://set-laboratory.githu.io/publication/kim2017trojan/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/kim2017trojan/</guid>
+      <guid>https://set-laboratory.githu.io/publication/kim2017trojan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MapReduce for Elliptic Curve Discrete Logarithm Problem</title>
-      <link>https://set-laboratory.github.io/publication/gao2016mapreduce/</link>
+      <link>https://set-laboratory.githu.io/publication/gao2016mapreduce/</link>
       <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/gao2016mapreduce/</guid>
+      <guid>https://set-laboratory.githu.io/publication/gao2016mapreduce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Security Theories and Practices for Big Data</title>
-      <link>https://set-laboratory.github.io/publication/lei2016bigdata/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2016bigdata/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2016bigdata/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2016bigdata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nanoscale Cryptography: Opportunities and Challenges</title>
-      <link>https://set-laboratory.github.io/publication/masoumi2015nanoscale/</link>
+      <link>https://set-laboratory.githu.io/publication/masoumi2015nanoscale/</link>
       <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/masoumi2015nanoscale/</guid>
+      <guid>https://set-laboratory.githu.io/publication/masoumi2015nanoscale/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrity Protection for Big Data Processing with Dynamic Redundancy Computation</title>
-      <link>https://set-laboratory.github.io/publication/gao2015integrity/</link>
+      <link>https://set-laboratory.githu.io/publication/gao2015integrity/</link>
       <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/gao2015integrity/</guid>
+      <guid>https://set-laboratory.githu.io/publication/gao2015integrity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Another Look at Secure Big Data Processing: Formal Framework and a Potential Approach</title>
-      <link>https://set-laboratory.github.io/publication/lei2015anotherlook/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2015anotherlook/</link>
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2015anotherlook/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2015anotherlook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing Software Dependability and Security with Hardware Supported Instruction Address Space Randomization</title>
-      <link>https://set-laboratory.github.io/publication/kim2015enhancing/</link>
+      <link>https://set-laboratory.githu.io/publication/kim2015enhancing/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/kim2015enhancing/</guid>
+      <guid>https://set-laboratory.githu.io/publication/kim2015enhancing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ABSS: An Attribute-based Sanitizable Signature for Integrity of Outsourced Database with Public Cloud</title>
-      <link>https://set-laboratory.github.io/publication/lei2015abss/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2015abss/</link>
       <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2015abss/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2015abss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secure Session on Mobile: An Exploration on Combining Biometric, TrustZone, and User Behavior</title>
-      <link>https://set-laboratory.github.io/publication/tao2014secure/</link>
+      <link>https://set-laboratory.githu.io/publication/tao2014secure/</link>
       <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/tao2014secure/</guid>
+      <guid>https://set-laboratory.githu.io/publication/tao2014secure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fault Resilient Physical Neural Networks on a Single Chip</title>
-      <link>https://set-laboratory.github.io/publication/shi2014fault/</link>
+      <link>https://set-laboratory.githu.io/publication/shi2014fault/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/shi2014fault/</guid>
+      <guid>https://set-laboratory.githu.io/publication/shi2014fault/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Preserving Large Scale DNA Read-mapping in MapReduce Framework using FPGAs</title>
-      <link>https://set-laboratory.github.io/publication/lei2014dna/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2014dna/</link>
       <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2014dna/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2014dna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Removing the Root of Trust: Secure Oblivious Key Establishment for FPGAs</title>
-      <link>https://set-laboratory.github.io/publication/lei2014removing/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2014removing/</link>
       <pubDate>Wed, 09 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2014removing/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2014removing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PFC: Privacy Preserving FPGA cloud - a Case Study of MapReduce</title>
-      <link>https://set-laboratory.github.io/publication/lei2014pfc/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2014pfc/</link>
       <pubDate>Fri, 27 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2014pfc/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2014pfc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seasoning Effect based Side Channel Attacks to AES Implementation with Phase Change Memory</title>
-      <link>https://set-laboratory.github.io/publication/lei2014seasoning/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2014seasoning/</link>
       <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2014seasoning/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2014seasoning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile User Identity Sensing using the Motion Sensor</title>
-      <link>https://set-laboratory.github.io/publication/xi2014mobile/</link>
+      <link>https://set-laboratory.githu.io/publication/xi2014mobile/</link>
       <pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/xi2014mobile/</guid>
+      <guid>https://set-laboratory.githu.io/publication/xi2014mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NES&#43;&#43;: Number System for Encryption based Privacy Preserving Speaker Verification</title>
-      <link>https://set-laboratory.github.io/publication/lei2014nes/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2014nes/</link>
       <pubDate>Thu, 22 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2014nes/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2014nes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hub: Heterogeneous Bucketization for Database Outsourcing</title>
-      <link>https://set-laboratory.github.io/publication/lei2012hub/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2012hub/</link>
       <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2012hub/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2012hub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CL-PRE: a Certificateless Proxy Re-Encryption Scheme for Secure Data Sharing with Public Cloud</title>
-      <link>https://set-laboratory.github.io/publication/lei2012clpre/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2012clpre/</link>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2012clpre/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2012clpre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ECDLP on GPU</title>
-      <link>https://set-laboratory.github.io/publication/lei2010ecdlp/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2010ecdlp/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2010ecdlp/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2010ecdlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerating Inverse of GF(2n) with Precomputation</title>
-      <link>https://set-laboratory.github.io/publication/lei2010accelerating/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2010accelerating/</link>
       <pubDate>Wed, 12 May 2010 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2010accelerating/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2010accelerating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reﬁnement of Miller’s Algorithm Over Edwards Curves</title>
-      <link>https://set-laboratory.github.io/publication/lei2010refinement/</link>
+      <link>https://set-laboratory.githu.io/publication/lei2010refinement/</link>
       <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2010refinement/</guid>
+      <guid>https://set-laboratory.githu.io/publication/lei2010refinement/</guid>
       <description></description>
     </item>
     

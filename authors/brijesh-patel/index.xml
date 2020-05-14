@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brijesh Patel | SET</title>
-    <link>https://set-laboratory.github.io/authors/brijesh-patel/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/brijesh-patel/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.githu.io/authors/brijesh-patel/</link>
+      <atom:link href="https://set-laboratory.githu.io/authors/brijesh-patel/index.xml" rel="self" type="application/rss+xml" />
     <description>Brijesh Patel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>https://set-laboratory.githu.io/img/icon-192.png</url>
       <title>Brijesh Patel</title>
-      <link>https://set-laboratory.github.io/authors/brijesh-patel/</link>
+      <link>https://set-laboratory.githu.io/authors/brijesh-patel/</link>
     </image>
     
     <item>
       <title>Blockchain-based Identity Management with Mobile Device</title>
-      <link>https://set-laboratory.github.io/publication/gao2018identity/</link>
+      <link>https://set-laboratory.githu.io/publication/gao2018identity/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/gao2018identity/</guid>
+      <guid>https://set-laboratory.githu.io/publication/gao2018identity/</guid>
       <description></description>
     </item>
     
