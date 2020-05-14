@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xinxin Fan | SET</title>
-    <link>https://set-laboratory.githu.io/authors/xinxin-fan/</link>
-      <atom:link href="https://set-laboratory.githu.io/authors/xinxin-fan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/xinxin-fan/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/xinxin-fan/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinxin Fan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.githu.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Xinxin Fan</title>
-      <link>https://set-laboratory.githu.io/authors/xinxin-fan/</link>
+      <link>https://set-laboratory.github.io/authors/xinxin-fan/</link>
     </image>
     
     <item>
       <title>DIoTA: Decentralized-Ledger-Based Framework for Data Authenticity Protection in IoT Systems</title>
-      <link>https://set-laboratory.githu.io/publication/xu2020diota/</link>
+      <link>https://set-laboratory.github.io/publication/xu2020diota/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.githu.io/publication/xu2020diota/</guid>
+      <guid>https://set-laboratory.github.io/publication/xu2020diota/</guid>
       <description></description>
     </item>
     

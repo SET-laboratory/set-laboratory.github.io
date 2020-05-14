@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SET</title>
-    <link>https://set-laboratory.githu.io/authors/lei/</link>
-      <atom:link href="https://set-laboratory.githu.io/authors/lei/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/lei/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/lei/index.xml" rel="self" type="application/rss+xml" />
     <description>SET</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Nov 2019 21:33:28 -0600</lastBuildDate>
     <image>
-      <url>https://set-laboratory.githu.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>SET</title>
-      <link>https://set-laboratory.githu.io/authors/lei/</link>
+      <link>https://set-laboratory.github.io/authors/lei/</link>
     </image>
     
     <item>
       <title>Blockchain for IoT</title>
-      <link>https://set-laboratory.githu.io/project/blockchain-iot/</link>
+      <link>https://set-laboratory.github.io/project/blockchain-iot/</link>
       <pubDate>Fri, 29 Nov 2019 21:33:28 -0600</pubDate>
-      <guid>https://set-laboratory.githu.io/project/blockchain-iot/</guid>
+      <guid>https://set-laboratory.github.io/project/blockchain-iot/</guid>
       <description></description>
     </item>
     

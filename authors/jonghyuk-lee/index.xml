@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JongHyuk Lee | SET</title>
-    <link>https://set-laboratory.githu.io/authors/jonghyuk-lee/</link>
-      <atom:link href="https://set-laboratory.githu.io/authors/jonghyuk-lee/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/jonghyuk-lee/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/jonghyuk-lee/index.xml" rel="self" type="application/rss+xml" />
     <description>JongHyuk Lee</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.githu.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>JongHyuk Lee</title>
-      <link>https://set-laboratory.githu.io/authors/jonghyuk-lee/</link>
+      <link>https://set-laboratory.github.io/authors/jonghyuk-lee/</link>
     </image>
     
     <item>
       <title>Architectural Protection of Application Privacy against Software and Physical Attacks in Untrusted Cloud Environment</title>
-      <link>https://set-laboratory.githu.io/publication/lei2015architectural/</link>
+      <link>https://set-laboratory.github.io/publication/lei2015architectural/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.githu.io/publication/lei2015architectural/</guid>
+      <guid>https://set-laboratory.github.io/publication/lei2015architectural/</guid>
       <description></description>
     </item>
     

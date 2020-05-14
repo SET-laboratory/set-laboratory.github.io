@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nour Diallo | SET</title>
-    <link>https://set-laboratory.githu.io/authors/nour-diallo/</link>
-      <atom:link href="https://set-laboratory.githu.io/authors/nour-diallo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/nour-diallo/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/nour-diallo/index.xml" rel="self" type="application/rss+xml" />
     <description>Nour Diallo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.githu.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Nour Diallo</title>
-      <link>https://set-laboratory.githu.io/authors/nour-diallo/</link>
+      <link>https://set-laboratory.github.io/authors/nour-diallo/</link>
     </image>
     
     <item>
       <title>Blockchain-based Identity Management with Mobile Device</title>
-      <link>https://set-laboratory.githu.io/publication/gao2018identity/</link>
+      <link>https://set-laboratory.github.io/publication/gao2018identity/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.githu.io/publication/gao2018identity/</guid>
+      <guid>https://set-laboratory.github.io/publication/gao2018identity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eGov-DAO: A Better Government using Blockchain based Decentralized Autonomous Organization</title>
-      <link>https://set-laboratory.githu.io/publication/diallo2018egov/</link>
+      <link>https://set-laboratory.github.io/publication/diallo2018egov/</link>
       <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.githu.io/publication/diallo2018egov/</guid>
+      <guid>https://set-laboratory.github.io/publication/diallo2018egov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling the Sharing economy: Privacy Respecting Contract based on Public Blockchain</title>
-      <link>https://set-laboratory.githu.io/publication/lei2017sharing/</link>
+      <link>https://set-laboratory.github.io/publication/lei2017sharing/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.githu.io/publication/lei2017sharing/</guid>
+      <guid>https://set-laboratory.github.io/publication/lei2017sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unraveling Blockchain based Crypto-currency System Supporting Oblivious Transactions: a Formalized Approach</title>
-      <link>https://set-laboratory.githu.io/publication/lin2017unraveling/</link>
+      <link>https://set-laboratory.github.io/publication/lin2017unraveling/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.githu.io/publication/lin2017unraveling/</guid>
+      <guid>https://set-laboratory.github.io/publication/lin2017unraveling/</guid>
       <description></description>
     </item>
     

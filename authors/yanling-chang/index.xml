@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yanling Chang | SET</title>
-    <link>https://set-laboratory.githu.io/authors/yanling-chang/</link>
-      <atom:link href="https://set-laboratory.githu.io/authors/yanling-chang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/yanling-chang/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/yanling-chang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yanling Chang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.githu.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Yanling Chang</title>
-      <link>https://set-laboratory.githu.io/authors/yanling-chang/</link>
+      <link>https://set-laboratory.github.io/authors/yanling-chang/</link>
     </image>
     
     <item>
       <title>Binding the Physical and Cyber Worlds: A Blockchain Approach for Cargo Supply Chain Security Enhancement</title>
-      <link>https://set-laboratory.githu.io/publication/lei2018binding/</link>
+      <link>https://set-laboratory.github.io/publication/lei2018binding/</link>
       <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.githu.io/publication/lei2018binding/</guid>
+      <guid>https://set-laboratory.github.io/publication/lei2018binding/</guid>
       <description></description>
     </item>
     

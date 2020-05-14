@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dainis Boumber | SET</title>
-    <link>https://set-laboratory.githu.io/authors/dainis-boumber/</link>
-      <atom:link href="https://set-laboratory.githu.io/authors/dainis-boumber/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/dainis-boumber/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/dainis-boumber/index.xml" rel="self" type="application/rss+xml" />
     <description>Dainis Boumber</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.githu.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Dainis Boumber</title>
-      <link>https://set-laboratory.githu.io/authors/dainis-boumber/</link>
+      <link>https://set-laboratory.github.io/authors/dainis-boumber/</link>
     </image>
     
     <item>
       <title>Fault Resilient Physical Neural Networks on a Single Chip</title>
-      <link>https://set-laboratory.githu.io/publication/shi2014fault/</link>
+      <link>https://set-laboratory.github.io/publication/shi2014fault/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.githu.io/publication/shi2014fault/</guid>
+      <guid>https://set-laboratory.github.io/publication/shi2014fault/</guid>
       <description></description>
     </item>
     
