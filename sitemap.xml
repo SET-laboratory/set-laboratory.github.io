@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://set-laboratory.github.io/publication_types/2/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://set-laboratory.github.io/authors/lei/</loc>
+    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://set-laboratory.github.io/project/ai-security/</loc>
+    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://set-laboratory.github.io/authors/</loc>
+    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://set-laboratory.github.io/project/future-manufacturing/</loc>
+    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://set-laboratory.github.io/project/</loc>
+    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://set-laboratory.github.io/</loc>
+    <lastmod>2020-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://set-laboratory.github.io/publication_types/2/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -34,11 +59,6 @@
   
   <url>
     <loc>https://set-laboratory.github.io/publication/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://set-laboratory.github.io/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,17 +108,7 @@
   </url>
   
   <url>
-    <loc>https://set-laboratory.github.io/authors/lei/</loc>
-    <lastmod>2019-11-29T21:33:28-06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://set-laboratory.github.io/project/blockchain-iot/</loc>
-    <lastmod>2019-11-29T21:33:28-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://set-laboratory.github.io/project/</loc>
     <lastmod>2019-11-29T21:33:28-06:00</lastmod>
   </url>
   

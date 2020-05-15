@@ -5,12 +5,29 @@
     <link>https://set-laboratory.github.io/project/</link>
       <atom:link href="https://set-laboratory.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Nov 2019 21:33:28 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Projects</title>
       <link>https://set-laboratory.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>AI Security</title>
+      <link>https://set-laboratory.github.io/project/ai-security/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/project/ai-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Future Manufacturing</title>
+      <link>https://set-laboratory.github.io/project/future-manufacturing/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/project/future-manufacturing/</guid>
+      <description>&lt;p&gt;The integration of the cyber world and physical world is accelerating, and we believe this is also the trend for future manufacturing.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blockchain for IoT</title>
