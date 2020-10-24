@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicholas Desalvo | SET</title>
-    <link>https://xuleimath.githu.io/authors/nicholas-desalvo/</link>
-      <atom:link href="https://xuleimath.githu.io/authors/nicholas-desalvo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/nicholas-desalvo/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/nicholas-desalvo/index.xml" rel="self" type="application/rss+xml" />
     <description>Nicholas Desalvo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 07 Jul 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://xuleimath.githu.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Nicholas Desalvo</title>
-      <link>https://xuleimath.githu.io/authors/nicholas-desalvo/</link>
+      <link>https://set-laboratory.github.io/authors/nicholas-desalvo/</link>
     </image>
     
     <item>
       <title>Integrity Protection for Big Data Processing with Dynamic Redundancy Computation</title>
-      <link>https://xuleimath.githu.io/publication/gao2015integrity/</link>
+      <link>https://set-laboratory.github.io/publication/gao2015integrity/</link>
       <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://xuleimath.githu.io/publication/gao2015integrity/</guid>
+      <guid>https://set-laboratory.github.io/publication/gao2015integrity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secure Session on Mobile: An Exploration on Combining Biometric, TrustZone, and User Behavior</title>
-      <link>https://xuleimath.githu.io/publication/tao2014secure/</link>
+      <link>https://set-laboratory.github.io/publication/tao2014secure/</link>
       <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://xuleimath.githu.io/publication/tao2014secure/</guid>
+      <guid>https://set-laboratory.github.io/publication/tao2014secure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seasoning Effect based Side Channel Attacks to AES Implementation with Phase Change Memory</title>
-      <link>https://xuleimath.githu.io/publication/lei2014seasoning/</link>
+      <link>https://set-laboratory.github.io/publication/lei2014seasoning/</link>
       <pubDate>Sun, 15 Jun 2014 00:00:00 +0000</pubDate>
-      <guid>https://xuleimath.githu.io/publication/lei2014seasoning/</guid>
+      <guid>https://set-laboratory.github.io/publication/lei2014seasoning/</guid>
       <description></description>
     </item>
     

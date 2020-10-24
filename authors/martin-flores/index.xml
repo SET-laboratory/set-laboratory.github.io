@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martin Flores | SET</title>
-    <link>https://xuleimath.githu.io/authors/martin-flores/</link>
-      <atom:link href="https://xuleimath.githu.io/authors/martin-flores/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/martin-flores/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/martin-flores/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Flores</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 20:35:52 -0500</lastBuildDate>
     <image>
-      <url>https://xuleimath.githu.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Martin Flores</title>
-      <link>https://xuleimath.githu.io/authors/martin-flores/</link>
+      <link>https://set-laboratory.github.io/authors/martin-flores/</link>
     </image>
     
     <item>
       <title>The Majority Rule: A General Protection on Recommender System</title>
-      <link>https://xuleimath.githu.io/publication/xu2020majority/</link>
+      <link>https://set-laboratory.github.io/publication/xu2020majority/</link>
       <pubDate>Fri, 23 Oct 2020 20:35:52 -0500</pubDate>
-      <guid>https://xuleimath.githu.io/publication/xu2020majority/</guid>
+      <guid>https://set-laboratory.github.io/publication/xu2020majority/</guid>
       <description></description>
     </item>
     
