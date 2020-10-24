@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hanyee Kim | SET</title>
-    <link>https://set-laboratory.github.io/authors/hanyee-kim/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/hanyee-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xuleimath.githu.io/authors/hanyee-kim/</link>
+      <atom:link href="https://xuleimath.githu.io/authors/hanyee-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Hanyee Kim</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Sep 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>https://xuleimath.githu.io/img/icon-192.png</url>
       <title>Hanyee Kim</title>
-      <link>https://set-laboratory.github.io/authors/hanyee-kim/</link>
+      <link>https://xuleimath.githu.io/authors/hanyee-kim/</link>
     </image>
     
     <item>
       <title>Privacy Preserving Large Scale DNA Read-mapping in MapReduce Framework using FPGAs</title>
-      <link>https://set-laboratory.github.io/publication/lei2014dna/</link>
+      <link>https://xuleimath.githu.io/publication/lei2014dna/</link>
       <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2014dna/</guid>
+      <guid>https://xuleimath.githu.io/publication/lei2014dna/</guid>
       <description></description>
     </item>
     

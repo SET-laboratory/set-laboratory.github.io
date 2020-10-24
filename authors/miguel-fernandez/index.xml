@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miguel Fernandez | SET</title>
-    <link>https://set-laboratory.github.io/authors/miguel-fernandez/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/miguel-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xuleimath.githu.io/authors/miguel-fernandez/</link>
+      <atom:link href="https://xuleimath.githu.io/authors/miguel-fernandez/index.xml" rel="self" type="application/rss+xml" />
     <description>Miguel Fernandez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2019 23:58:27 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 20:11:47 -0500</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>https://xuleimath.githu.io/img/icon-192.png</url>
       <title>Miguel Fernandez</title>
-      <link>https://set-laboratory.github.io/authors/miguel-fernandez/</link>
+      <link>https://xuleimath.githu.io/authors/miguel-fernandez/</link>
     </image>
     
     <item>
+      <title>PrivateEx: privacy preserving exchange of crypto-assets on blockchain</title>
+      <link>https://xuleimath.githu.io/publication/xu2020privateex/</link>
+      <pubDate>Fri, 23 Oct 2020 20:11:47 -0500</pubDate>
+      <guid>https://xuleimath.githu.io/publication/xu2020privateex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PrivateEx: Privacy Preserving Exchange of Crypto-assets on Blockchain</title>
-      <link>https://set-laboratory.github.io/publication/lei2019privateex/</link>
+      <link>https://xuleimath.githu.io/publication/lei2019privateex/</link>
       <pubDate>Mon, 23 Dec 2019 23:58:27 -0600</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2019privateex/</guid>
+      <guid>https://xuleimath.githu.io/publication/lei2019privateex/</guid>
       <description></description>
     </item>
     

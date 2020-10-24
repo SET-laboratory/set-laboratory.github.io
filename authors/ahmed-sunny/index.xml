@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed Sunny | SET</title>
+    <link>https://xuleimath.githu.io/authors/ahmed-sunny/</link>
+      <atom:link href="https://xuleimath.githu.io/authors/ahmed-sunny/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmed Sunny</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 20:15:17 -0500</lastBuildDate>
+    <image>
+      <url>https://xuleimath.githu.io/img/icon-192.png</url>
+      <title>Ahmed Sunny</title>
+      <link>https://xuleimath.githu.io/authors/ahmed-sunny/</link>
+    </image>
+    
+    <item>
+      <title>Computational complexity characterization of protecting elections from bribery</title>
+      <link>https://xuleimath.githu.io/publication/chen2020computational/</link>
+      <pubDate>Fri, 23 Oct 2020 20:15:17 -0500</pubDate>
+      <guid>https://xuleimath.githu.io/publication/chen2020computational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

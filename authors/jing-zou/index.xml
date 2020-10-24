@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jing Zou | SET</title>
-    <link>https://set-laboratory.github.io/authors/jing-zou/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/jing-zou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xuleimath.githu.io/authors/jing-zou/</link>
+      <atom:link href="https://xuleimath.githu.io/authors/jing-zou/index.xml" rel="self" type="application/rss+xml" />
     <description>Jing Zou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>https://xuleimath.githu.io/img/icon-192.png</url>
       <title>Jing Zou</title>
-      <link>https://set-laboratory.github.io/authors/jing-zou/</link>
+      <link>https://xuleimath.githu.io/authors/jing-zou/</link>
     </image>
     
     <item>
       <title>ECDLP on GPU</title>
-      <link>https://set-laboratory.github.io/publication/lei2010ecdlp/</link>
+      <link>https://xuleimath.githu.io/publication/lei2010ecdlp/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2010ecdlp/</guid>
+      <guid>https://xuleimath.githu.io/publication/lei2010ecdlp/</guid>
       <description></description>
     </item>
     

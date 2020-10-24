@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ziyi Liu | SET</title>
-    <link>https://set-laboratory.github.io/authors/ziyi-liu/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/ziyi-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xuleimath.githu.io/authors/ziyi-liu/</link>
+      <atom:link href="https://xuleimath.githu.io/authors/ziyi-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Ziyi Liu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>https://xuleimath.githu.io/img/icon-192.png</url>
       <title>Ziyi Liu</title>
-      <link>https://set-laboratory.github.io/authors/ziyi-liu/</link>
+      <link>https://xuleimath.githu.io/authors/ziyi-liu/</link>
     </image>
     
     <item>
       <title>Enhancing Software Dependability and Security with Hardware Supported Instruction Address Space Randomization</title>
-      <link>https://set-laboratory.github.io/publication/kim2015enhancing/</link>
+      <link>https://xuleimath.githu.io/publication/kim2015enhancing/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/kim2015enhancing/</guid>
+      <guid>https://xuleimath.githu.io/publication/kim2015enhancing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fault Resilient Physical Neural Networks on a Single Chip</title>
-      <link>https://set-laboratory.github.io/publication/shi2014fault/</link>
+      <link>https://xuleimath.githu.io/publication/shi2014fault/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/shi2014fault/</guid>
+      <guid>https://xuleimath.githu.io/publication/shi2014fault/</guid>
       <description></description>
     </item>
     

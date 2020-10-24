@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xi Zhao | SET</title>
-    <link>https://set-laboratory.github.io/authors/xi-zhao/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/xi-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xuleimath.githu.io/authors/xi-zhao/</link>
+      <atom:link href="https://xuleimath.githu.io/authors/xi-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Xi Zhao</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>https://xuleimath.githu.io/img/icon-192.png</url>
       <title>Xi Zhao</title>
-      <link>https://set-laboratory.github.io/authors/xi-zhao/</link>
+      <link>https://xuleimath.githu.io/authors/xi-zhao/</link>
     </image>
     
     <item>
       <title>CoC: A Unified Distributed :edger based Supply Chain Management System</title>
-      <link>https://set-laboratory.github.io/publication/gao2018coc/</link>
+      <link>https://xuleimath.githu.io/publication/gao2018coc/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/gao2018coc/</guid>
+      <guid>https://xuleimath.githu.io/publication/gao2018coc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secure Session on Mobile: An Exploration on Combining Biometric, TrustZone, and User Behavior</title>
-      <link>https://set-laboratory.github.io/publication/tao2014secure/</link>
+      <link>https://xuleimath.githu.io/publication/tao2014secure/</link>
       <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/tao2014secure/</guid>
+      <guid>https://xuleimath.githu.io/publication/tao2014secure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fault Resilient Physical Neural Networks on a Single Chip</title>
-      <link>https://set-laboratory.github.io/publication/shi2014fault/</link>
+      <link>https://xuleimath.githu.io/publication/shi2014fault/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/shi2014fault/</guid>
+      <guid>https://xuleimath.githu.io/publication/shi2014fault/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile User Identity Sensing using the Motion Sensor</title>
-      <link>https://set-laboratory.github.io/publication/xi2014mobile/</link>
+      <link>https://xuleimath.githu.io/publication/xi2014mobile/</link>
       <pubDate>Thu, 29 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/xi2014mobile/</guid>
+      <guid>https://xuleimath.githu.io/publication/xi2014mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NES&#43;&#43;: Number System for Encryption based Privacy Preserving Speaker Verification</title>
-      <link>https://set-laboratory.github.io/publication/lei2014nes/</link>
+      <link>https://xuleimath.githu.io/publication/lei2014nes/</link>
       <pubDate>Thu, 22 May 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2014nes/</guid>
+      <guid>https://xuleimath.githu.io/publication/lei2014nes/</guid>
       <description></description>
     </item>
     

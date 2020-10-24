@@ -2,101 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nolan Shah | SET</title>
-    <link>https://set-laboratory.github.io/authors/nolan-shah/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/nolan-shah/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://xuleimath.githu.io/authors/nolan-shah/</link>
+      <atom:link href="https://xuleimath.githu.io/authors/nolan-shah/index.xml" rel="self" type="application/rss+xml" />
     <description>Nolan Shah</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 20:15:17 -0500</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>https://xuleimath.githu.io/img/icon-192.png</url>
       <title>Nolan Shah</title>
-      <link>https://set-laboratory.github.io/authors/nolan-shah/</link>
+      <link>https://xuleimath.githu.io/authors/nolan-shah/</link>
     </image>
     
     <item>
+      <title>Computational complexity characterization of protecting elections from bribery</title>
+      <link>https://xuleimath.githu.io/publication/chen2020computational/</link>
+      <pubDate>Fri, 23 Oct 2020 20:15:17 -0500</pubDate>
+      <guid>https://xuleimath.githu.io/publication/chen2020computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Supporting Blockchain-Based Cryptocurrency Mobile Payment With Smart Devices</title>
+      <link>https://xuleimath.githu.io/publication/xu2020supporting/</link>
+      <pubDate>Fri, 23 Oct 2020 20:07:47 -0500</pubDate>
+      <guid>https://xuleimath.githu.io/publication/xu2020supporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The Game among Bribers in a Smart Contract System</title>
-      <link>https://set-laboratory.github.io/publication/lin2018game/</link>
+      <link>https://xuleimath.githu.io/publication/lin2018game/</link>
       <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2018game/</guid>
+      <guid>https://xuleimath.githu.io/publication/lin2018game/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protecting Election from Bribery: New Approach and Computational Complexity Characterization</title>
-      <link>https://set-laboratory.github.io/publication/lin2018protecting/</link>
+      <link>https://xuleimath.githu.io/publication/lin2018protecting/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2018protecting/</guid>
+      <guid>https://xuleimath.githu.io/publication/lin2018protecting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eGov-DAO: A Better Government using Blockchain based Decentralized Autonomous Organization</title>
-      <link>https://set-laboratory.github.io/publication/diallo2018egov/</link>
+      <link>https://xuleimath.githu.io/publication/diallo2018egov/</link>
       <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/diallo2018egov/</guid>
+      <guid>https://xuleimath.githu.io/publication/diallo2018egov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smart Contract Execution-the (&#43;-)-biased Ballot Problem</title>
-      <link>https://set-laboratory.github.io/publication/lin2017biased/</link>
+      <link>https://xuleimath.githu.io/publication/lin2017biased/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2017biased/</guid>
+      <guid>https://xuleimath.githu.io/publication/lin2017biased/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scalable Blockchain based Smart Contract Execution</title>
-      <link>https://set-laboratory.github.io/publication/gao2017scalable/</link>
+      <link>https://xuleimath.githu.io/publication/gao2017scalable/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/gao2017scalable/</guid>
+      <guid>https://xuleimath.githu.io/publication/gao2017scalable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decentralized Execution of Smart Contracts: Agent Model Perspective and Its Implications</title>
-      <link>https://set-laboratory.github.io/publication/lin2017execution/</link>
+      <link>https://xuleimath.githu.io/publication/lin2017execution/</link>
       <pubDate>Sun, 19 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2017execution/</guid>
+      <guid>https://xuleimath.githu.io/publication/lin2017execution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On Security Analysis of Proof-of-elapsed-time (PoET)</title>
-      <link>https://set-laboratory.github.io/publication/lin2017poet/</link>
+      <link>https://xuleimath.githu.io/publication/lin2017poet/</link>
       <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2017poet/</guid>
+      <guid>https://xuleimath.githu.io/publication/lin2017poet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ZeroTrade: Privacy Respecting Assets Trading System Based on Public Ledger</title>
-      <link>https://set-laboratory.github.io/publication/lei2017zerotrade/</link>
+      <link>https://xuleimath.githu.io/publication/lei2017zerotrade/</link>
       <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2017zerotrade/</guid>
+      <guid>https://xuleimath.githu.io/publication/lei2017zerotrade/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DL-BAC: Distributed Ledger based Access Control for Web Applications</title>
-      <link>https://set-laboratory.github.io/publication/lei2017access/</link>
+      <link>https://xuleimath.githu.io/publication/lei2017access/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2017access/</guid>
+      <guid>https://xuleimath.githu.io/publication/lei2017access/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enabling the Sharing economy: Privacy Respecting Contract based on Public Blockchain</title>
-      <link>https://set-laboratory.github.io/publication/lei2017sharing/</link>
+      <link>https://xuleimath.githu.io/publication/lei2017sharing/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2017sharing/</guid>
+      <guid>https://xuleimath.githu.io/publication/lei2017sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unraveling Blockchain based Crypto-currency System Supporting Oblivious Transactions: a Formalized Approach</title>
-      <link>https://set-laboratory.github.io/publication/lin2017unraveling/</link>
+      <link>https://xuleimath.githu.io/publication/lin2017unraveling/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2017unraveling/</guid>
+      <guid>https://xuleimath.githu.io/publication/lin2017unraveling/</guid>
       <description></description>
     </item>
     
