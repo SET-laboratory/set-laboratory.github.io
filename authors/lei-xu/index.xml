@@ -5,12 +5,28 @@
     <link>https://set-laboratory.github.io/authors/lei-xu/</link>
       <atom:link href="https://set-laboratory.github.io/authors/lei-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei Xu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 20:34:06 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 14:49:27 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Lei Xu</title>
       <link>https://set-laboratory.github.io/authors/lei-xu/</link>
     </image>
+    
+    <item>
+      <title>Blockchain based End-to-end Tracking System for Distributed IoT Intelligence Application Security Enhancement</title>
+      <link>https://set-laboratory.github.io/publication/lei2020blockchain/</link>
+      <pubDate>Tue, 27 Oct 2020 14:49:27 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2020blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FPGA based Blockchain System for Industrial IoT</title>
+      <link>https://set-laboratory.github.io/publication/lei2020fpga/</link>
+      <pubDate>Tue, 27 Oct 2020 14:45:40 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2020fpga/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DIAM-IoT: A Decentralized Identity and Access Management Framework for Internet of Things</title>

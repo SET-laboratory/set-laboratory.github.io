@@ -5,12 +5,76 @@
     <link>https://set-laboratory.github.io/authors/</link>
       <atom:link href="https://set-laboratory.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 20:35:52 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 14:49:27 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://set-laboratory.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Hanyee Kim</title>
+      <link>https://set-laboratory.github.io/authors/hanyee-kim/</link>
+      <pubDate>Tue, 27 Oct 2020 14:49:27 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/hanyee-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lei Xu</title>
+      <link>https://set-laboratory.github.io/authors/lei-xu/</link>
+      <pubDate>Tue, 27 Oct 2020 14:49:27 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/lei-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lin Chen</title>
+      <link>https://set-laboratory.github.io/authors/lin-chen/</link>
+      <pubDate>Tue, 27 Oct 2020 14:49:27 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/lin-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taeweon Suh</title>
+      <link>https://set-laboratory.github.io/authors/taeweon-suh/</link>
+      <pubDate>Tue, 27 Oct 2020 14:49:27 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/taeweon-suh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weidong Shi</title>
+      <link>https://set-laboratory.github.io/authors/weidong-shi/</link>
+      <pubDate>Tue, 27 Oct 2020 14:49:27 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/weidong-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinxin Fan</title>
+      <link>https://set-laboratory.github.io/authors/xinxin-fan/</link>
+      <pubDate>Tue, 27 Oct 2020 14:49:27 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/xinxin-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhimin Gao</title>
+      <link>https://set-laboratory.github.io/authors/zhimin-gao/</link>
+      <pubDate>Tue, 27 Oct 2020 14:49:27 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/zhimin-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weidong Shi.</title>
+      <link>https://set-laboratory.github.io/authors/weidong-shi./</link>
+      <pubDate>Tue, 27 Oct 2020 14:45:40 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/weidong-shi./</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -34,14 +98,6 @@
       <link>https://set-laboratory.github.io/authors/hansheng-lei/</link>
       <pubDate>Fri, 23 Oct 2020 20:35:52 -0500</pubDate>
       <guid>https://set-laboratory.github.io/authors/hansheng-lei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lin Chen</title>
-      <link>https://set-laboratory.github.io/authors/lin-chen/</link>
-      <pubDate>Fri, 23 Oct 2020 20:35:52 -0500</pubDate>
-      <guid>https://set-laboratory.github.io/authors/lin-chen/</guid>
       <description></description>
     </item>
     
@@ -70,14 +126,6 @@
     </item>
     
     <item>
-      <title>Weidong Shi</title>
-      <link>https://set-laboratory.github.io/authors/weidong-shi/</link>
-      <pubDate>Fri, 23 Oct 2020 20:35:52 -0500</pubDate>
-      <guid>https://set-laboratory.github.io/authors/weidong-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xu</title>
       <link>https://set-laboratory.github.io/authors/xu/</link>
       <pubDate>Fri, 23 Oct 2020 20:35:52 -0500</pubDate>
@@ -94,14 +142,6 @@
     </item>
     
     <item>
-      <title>Lei Xu</title>
-      <link>https://set-laboratory.github.io/authors/lei-xu/</link>
-      <pubDate>Fri, 23 Oct 2020 20:34:06 -0500</pubDate>
-      <guid>https://set-laboratory.github.io/authors/lei-xu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Qi Chai</title>
       <link>https://set-laboratory.github.io/authors/qi-chai/</link>
       <pubDate>Fri, 23 Oct 2020 20:34:06 -0500</pubDate>
@@ -110,26 +150,10 @@
     </item>
     
     <item>
-      <title>Xinxin Fan</title>
-      <link>https://set-laboratory.github.io/authors/xinxin-fan/</link>
-      <pubDate>Fri, 23 Oct 2020 20:34:06 -0500</pubDate>
-      <guid>https://set-laboratory.github.io/authors/xinxin-fan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>and Weidong Shi</title>
       <link>https://set-laboratory.github.io/authors/and-weidong-shi/</link>
       <pubDate>Fri, 23 Oct 2020 20:31:27 -0500</pubDate>
       <guid>https://set-laboratory.github.io/authors/and-weidong-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhimin Gao</title>
-      <link>https://set-laboratory.github.io/authors/zhimin-gao/</link>
-      <pubDate>Fri, 23 Oct 2020 20:31:27 -0500</pubDate>
-      <guid>https://set-laboratory.github.io/authors/zhimin-gao/</guid>
       <description></description>
     </item>
     
@@ -210,14 +234,6 @@
       <link>https://set-laboratory.github.io/authors/nour-diallo/</link>
       <pubDate>Fri, 23 Oct 2020 20:07:47 -0500</pubDate>
       <guid>https://set-laboratory.github.io/authors/nour-diallo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Taeweon Suh</title>
-      <link>https://set-laboratory.github.io/authors/taeweon-suh/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/authors/taeweon-suh/</guid>
       <description></description>
     </item>
     
@@ -490,14 +506,6 @@
       <link>https://set-laboratory.github.io/authors/yuanfeng-wen/</link>
       <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://set-laboratory.github.io/authors/yuanfeng-wen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hanyee Kim</title>
-      <link>https://set-laboratory.github.io/authors/hanyee-kim/</link>
-      <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/authors/hanyee-kim/</guid>
       <description></description>
     </item>
     
