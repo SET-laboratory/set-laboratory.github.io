@@ -1,6 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://set-laboratory.github.io/post/google-cloud-credit/</loc>
+    <lastmod>2020-12-22T20:27:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://set-laboratory.github.io/post/</loc>
+    <lastmod>2020-12-22T20:27:46-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://set-laboratory.github.io/</loc>
+    <lastmod>2020-12-22T20:27:46-06:00</lastmod>
+  </url>
   
   <url>
     <loc>https://set-laboratory.github.io/post/cem-best-paper/</loc>
@@ -8,17 +23,17 @@
   </url>
   
   <url>
-    <loc>https://set-laboratory.github.io/post/</loc>
-    <lastmod>2020-12-10T19:14:32-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://set-laboratory.github.io/</loc>
-    <lastmod>2020-12-10T19:14:32-06:00</lastmod>
+    <loc>https://set-laboratory.github.io/authors/lei/</loc>
+    <lastmod>2020-10-27T14:49:27-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://set-laboratory.github.io/publication_types/1/</loc>
+    <lastmod>2020-10-27T14:49:27-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://set-laboratory.github.io/authors/</loc>
     <lastmod>2020-10-27T14:49:27-05:00</lastmod>
   </url>
   
@@ -63,7 +78,7 @@
   </url>
   
   <url>
-    <loc>https://set-laboratory.github.io/authors/weidong-shi/</loc>
+    <loc>https://set-laboratory.github.io/authors/weidong-shi./</loc>
     <lastmod>2020-10-27T14:49:27-05:00</lastmod>
   </url>
   
@@ -80,16 +95,6 @@
   <url>
     <loc>https://set-laboratory.github.io/publication/lei2020fpga/</loc>
     <lastmod>2020-10-27T14:45:40-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://set-laboratory.github.io/authors/weidong-shi./</loc>
-    <lastmod>2020-10-27T14:45:40-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://set-laboratory.github.io/authors/lei/</loc>
-    <lastmod>2020-10-23T20:35:52-05:00</lastmod>
   </url>
   
   <url>
@@ -143,7 +148,7 @@
   </url>
   
   <url>
-    <loc>https://set-laboratory.github.io/authors/and-weidong-shi/</loc>
+    <loc>https://set-laboratory.github.io/authors/and-weidong-shi./</loc>
     <lastmod>2020-10-23T20:31:27-05:00</lastmod>
   </url>
   
@@ -199,11 +204,6 @@
   
   <url>
     <loc>https://set-laboratory.github.io/publication_types/2/</loc>
-    <lastmod>2020-10-23T20:07:47-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://set-laboratory.github.io/authors/and-weidong-shi./</loc>
     <lastmod>2020-10-23T20:07:47-05:00</lastmod>
   </url>
   
@@ -717,11 +717,23 @@
   </url>
   
   <url>
+    <loc>https://set-laboratory.github.io/authors/lei/experience/</loc>
+  </url>
+  
+  <url>
     <loc>https://set-laboratory.github.io/authors/luis/</loc>
   </url>
   
   <url>
+    <loc>https://set-laboratory.github.io/authors/luis/experience/</loc>
+  </url>
+  
+  <url>
     <loc>https://set-laboratory.github.io/authors/raul/</loc>
+  </url>
+  
+  <url>
+    <loc>https://set-laboratory.github.io/authors/raul/experience/</loc>
   </url>
   
   <url>

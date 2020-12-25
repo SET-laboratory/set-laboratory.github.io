@@ -5,12 +5,21 @@
     <link>https://set-laboratory.github.io/</link>
       <atom:link href="https://set-laboratory.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SET</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 19:14:32 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Dec 2020 20:27:46 -0600</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>SET</title>
       <link>https://set-laboratory.github.io/</link>
     </image>
+    
+    <item>
+      <title>Google Cloud Credit</title>
+      <link>https://set-laboratory.github.io/post/google-cloud-credit/</link>
+      <pubDate>Tue, 22 Dec 2020 20:27:46 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/post/google-cloud-credit/</guid>
+      <description>&lt;p&gt;We received some credits from Google Cloud to support our research.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CEM best paper award</title>
@@ -532,6 +541,132 @@
       <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
       <guid>https://set-laboratory.github.io/publication/lei2010refinement/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://set-laboratory.github.io/authors/lei/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/lei/experience/</guid>
+      <description>&lt;p&gt;widget = &amp;ldquo;experience&amp;rdquo;
+headless = true  # This file represents a page section.&lt;/p&gt;
+&lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
+&lt;h1 id=&#34;date-format-for-experience&#34;&gt;Date format for experience&lt;/h1&gt;
+&lt;h1 id=&#34;refer-to-httpssourcethemescomacademicdocscustomizationdate-format&#34;&gt;Refer to &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#date-format&#34;&gt;https://sourcethemes.com/academic/docs/customization/#date-format&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;date_format = &amp;ldquo;Jan 2006&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;experiences&#34;&gt;Experiences.&lt;/h1&gt;
+&lt;h1 id=&#34;addremove-as-many-experience-blocks-below-as-you-like&#34;&gt;Add/remove as many &lt;code&gt;[[experience]]&lt;/code&gt; blocks below as you like.&lt;/h1&gt;
+&lt;h1 id=&#34;required-fields-are-title-company-and-date_start&#34;&gt;Required fields are &lt;code&gt;title&lt;/code&gt;, &lt;code&gt;company&lt;/code&gt;, and &lt;code&gt;date_start&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;leave-date_end-empty-if-its-your-current-employer&#34;&gt;Leave &lt;code&gt;date_end&lt;/code&gt; empty if it&amp;rsquo;s your current employer.&lt;/h1&gt;
+&lt;h1 id=&#34;beginend-multi-line-descriptions-with-3-quotes-&#34;&gt;Begin/end multi-line descriptions with 3 quotes &lt;code&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;[[experience]]
+title = &amp;ldquo;CEO&amp;rdquo;
+company = &amp;ldquo;GenCoin&amp;rdquo;
+company_url = &amp;quot;&amp;rdquo;
+location = &amp;ldquo;California&amp;rdquo;
+date_start = &amp;ldquo;2017-01-01&amp;rdquo;
+date_end = &amp;quot;&amp;rdquo;
+description = &amp;quot;&amp;rdquo;&amp;rdquo;
+Responsibilities include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analysing&lt;/li&gt;
+&lt;li&gt;Modelling&lt;/li&gt;
+&lt;li&gt;Deploying
+&amp;quot;&amp;rdquo;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[[experience]]
+title = &amp;ldquo;Professor&amp;rdquo;
+company = &amp;ldquo;University X&amp;rdquo;
+company_url = &amp;quot;&amp;rdquo;
+location = &amp;ldquo;California&amp;rdquo;
+date_start = &amp;ldquo;2016-01-01&amp;rdquo;
+date_end = &amp;ldquo;2016-12-31&amp;rdquo;
+description = &amp;ldquo;&amp;ldquo;&amp;ldquo;Taught electronic engineering and researched semiconductor physics.&amp;rdquo;&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://set-laboratory.github.io/authors/luis/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/luis/experience/</guid>
+      <description>&lt;p&gt;widget = &amp;ldquo;experience&amp;rdquo;
+headless = true  # This file represents a page section.&lt;/p&gt;
+&lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
+&lt;h1 id=&#34;date-format-for-experience&#34;&gt;Date format for experience&lt;/h1&gt;
+&lt;h1 id=&#34;refer-to-httpssourcethemescomacademicdocscustomizationdate-format&#34;&gt;Refer to &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#date-format&#34;&gt;https://sourcethemes.com/academic/docs/customization/#date-format&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;date_format = &amp;ldquo;Jan 2006&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;experiences&#34;&gt;Experiences.&lt;/h1&gt;
+&lt;h1 id=&#34;addremove-as-many-experience-blocks-below-as-you-like&#34;&gt;Add/remove as many &lt;code&gt;[[experience]]&lt;/code&gt; blocks below as you like.&lt;/h1&gt;
+&lt;h1 id=&#34;required-fields-are-title-company-and-date_start&#34;&gt;Required fields are &lt;code&gt;title&lt;/code&gt;, &lt;code&gt;company&lt;/code&gt;, and &lt;code&gt;date_start&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;leave-date_end-empty-if-its-your-current-employer&#34;&gt;Leave &lt;code&gt;date_end&lt;/code&gt; empty if it&amp;rsquo;s your current employer.&lt;/h1&gt;
+&lt;h1 id=&#34;beginend-multi-line-descriptions-with-3-quotes-&#34;&gt;Begin/end multi-line descriptions with 3 quotes &lt;code&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;[[experience]]
+title = &amp;ldquo;CEO&amp;rdquo;
+company = &amp;ldquo;GenCoin&amp;rdquo;
+company_url = &amp;quot;&amp;rdquo;
+location = &amp;ldquo;California&amp;rdquo;
+date_start = &amp;ldquo;2017-01-01&amp;rdquo;
+date_end = &amp;quot;&amp;rdquo;
+description = &amp;quot;&amp;rdquo;&amp;rdquo;
+Responsibilities include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analysing&lt;/li&gt;
+&lt;li&gt;Modelling&lt;/li&gt;
+&lt;li&gt;Deploying
+&amp;quot;&amp;rdquo;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[[experience]]
+title = &amp;ldquo;Professor&amp;rdquo;
+company = &amp;ldquo;University X&amp;rdquo;
+company_url = &amp;quot;&amp;rdquo;
+location = &amp;ldquo;California&amp;rdquo;
+date_start = &amp;ldquo;2016-01-01&amp;rdquo;
+date_end = &amp;ldquo;2016-12-31&amp;rdquo;
+description = &amp;ldquo;&amp;ldquo;&amp;ldquo;Taught electronic engineering and researched semiconductor physics.&amp;rdquo;&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://set-laboratory.github.io/authors/raul/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/raul/experience/</guid>
+      <description>&lt;p&gt;widget = &amp;ldquo;experience&amp;rdquo;
+headless = true  # This file represents a page section.&lt;/p&gt;
+&lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
+&lt;h1 id=&#34;date-format-for-experience&#34;&gt;Date format for experience&lt;/h1&gt;
+&lt;h1 id=&#34;refer-to-httpssourcethemescomacademicdocscustomizationdate-format&#34;&gt;Refer to &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#date-format&#34;&gt;https://sourcethemes.com/academic/docs/customization/#date-format&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;date_format = &amp;ldquo;Jan 2006&amp;rdquo;&lt;/p&gt;
+&lt;h1 id=&#34;experiences&#34;&gt;Experiences.&lt;/h1&gt;
+&lt;h1 id=&#34;addremove-as-many-experience-blocks-below-as-you-like&#34;&gt;Add/remove as many &lt;code&gt;[[experience]]&lt;/code&gt; blocks below as you like.&lt;/h1&gt;
+&lt;h1 id=&#34;required-fields-are-title-company-and-date_start&#34;&gt;Required fields are &lt;code&gt;title&lt;/code&gt;, &lt;code&gt;company&lt;/code&gt;, and &lt;code&gt;date_start&lt;/code&gt;.&lt;/h1&gt;
+&lt;h1 id=&#34;leave-date_end-empty-if-its-your-current-employer&#34;&gt;Leave &lt;code&gt;date_end&lt;/code&gt; empty if it&amp;rsquo;s your current employer.&lt;/h1&gt;
+&lt;h1 id=&#34;beginend-multi-line-descriptions-with-3-quotes-&#34;&gt;Begin/end multi-line descriptions with 3 quotes &lt;code&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
+&lt;p&gt;[[experience]]
+title = &amp;ldquo;CEO&amp;rdquo;
+company = &amp;ldquo;GenCoin&amp;rdquo;
+company_url = &amp;quot;&amp;rdquo;
+location = &amp;ldquo;California&amp;rdquo;
+date_start = &amp;ldquo;2017-01-01&amp;rdquo;
+date_end = &amp;quot;&amp;rdquo;
+description = &amp;quot;&amp;rdquo;&amp;rdquo;
+Responsibilities include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analysing&lt;/li&gt;
+&lt;li&gt;Modelling&lt;/li&gt;
+&lt;li&gt;Deploying
+&amp;quot;&amp;rdquo;&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[[experience]]
+title = &amp;ldquo;Professor&amp;rdquo;
+company = &amp;ldquo;University X&amp;rdquo;
+company_url = &amp;quot;&amp;rdquo;
+location = &amp;ldquo;California&amp;rdquo;
+date_start = &amp;ldquo;2016-01-01&amp;rdquo;
+date_end = &amp;ldquo;2016-12-31&amp;rdquo;
+description = &amp;ldquo;&amp;ldquo;&amp;ldquo;Taught electronic engineering and researched semiconductor physics.&amp;rdquo;&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
