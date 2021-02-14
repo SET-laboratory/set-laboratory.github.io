@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dong Guo | SET</title>
+    <link>https://set-laboratory.github.io/authors/dong-guo/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/dong-guo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dong Guo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 20:34:06 -0500</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>Dong Guo</title>
+      <link>https://set-laboratory.github.io/authors/dong-guo/</link>
+    </image>
+    
+    <item>
+      <title>DIAM-IoT: A Decentralized Identity and Access Management Framework for Internet of Things</title>
+      <link>https://set-laboratory.github.io/publication/fan2020diam/</link>
+      <pubDate>Fri, 23 Oct 2020 20:34:06 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/fan2020diam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

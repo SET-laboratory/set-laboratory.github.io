@@ -5,12 +5,37 @@
     <link>https://set-laboratory.github.io/</link>
       <atom:link href="https://set-laboratory.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SET</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Dec 2020 20:27:46 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Feb 2021 11:50:52 -0600</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>SET</title>
       <link>https://set-laboratory.github.io/</link>
     </image>
+    
+    <item>
+      <title>A Secure and Flexible FPGA-Based Blockchain System for the IIoT</title>
+      <link>https://set-laboratory.github.io/publication/kim2021secure/</link>
+      <pubDate>Sun, 14 Feb 2021 11:50:52 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/publication/kim2021secure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NSF Panel</title>
+      <link>https://set-laboratory.github.io/post/nsf-panel-2021/</link>
+      <pubDate>Fri, 05 Feb 2021 22:06:56 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/post/nsf-panel-2021/</guid>
+      <description>&lt;p&gt;Glad to serve the NSF panel for the first time :)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EDSC: An Event-Driven Smart Contract Platform</title>
+      <link>https://set-laboratory.github.io/publication/kaleem2021edsc/</link>
+      <pubDate>Tue, 19 Jan 2021 11:22:09 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/publication/kaleem2021edsc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Google Cloud Credit</title>

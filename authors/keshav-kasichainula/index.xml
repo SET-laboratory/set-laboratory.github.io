@@ -5,12 +5,20 @@
     <link>https://set-laboratory.github.io/authors/keshav-kasichainula/</link>
       <atom:link href="https://set-laboratory.github.io/authors/keshav-kasichainula/index.xml" rel="self" type="application/rss+xml" />
     <description>Keshav Kasichainula</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Dec 2019 23:58:27 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jan 2021 11:22:09 -0600</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Keshav Kasichainula</title>
       <link>https://set-laboratory.github.io/authors/keshav-kasichainula/</link>
     </image>
+    
+    <item>
+      <title>EDSC: An Event-Driven Smart Contract Platform</title>
+      <link>https://set-laboratory.github.io/publication/kaleem2021edsc/</link>
+      <pubDate>Tue, 19 Jan 2021 11:22:09 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/publication/kaleem2021edsc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PrivateEx: Privacy Preserving Exchange of Crypto-assets on Blockchain</title>

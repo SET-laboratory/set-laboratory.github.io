@@ -5,12 +5,28 @@
     <link>https://set-laboratory.github.io/publication/</link>
       <atom:link href="https://set-laboratory.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 14:49:27 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Feb 2021 11:50:52 -0600</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://set-laboratory.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A Secure and Flexible FPGA-Based Blockchain System for the IIoT</title>
+      <link>https://set-laboratory.github.io/publication/kim2021secure/</link>
+      <pubDate>Sun, 14 Feb 2021 11:50:52 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/publication/kim2021secure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDSC: An Event-Driven Smart Contract Platform</title>
+      <link>https://set-laboratory.github.io/publication/kaleem2021edsc/</link>
+      <pubDate>Tue, 19 Jan 2021 11:22:09 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/publication/kaleem2021edsc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blockchain based End-to-end Tracking System for Distributed IoT Intelligence Application Security Enhancement</title>

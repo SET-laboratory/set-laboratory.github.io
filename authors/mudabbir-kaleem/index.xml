@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>0 | SET</title>
-    <link>https://set-laboratory.github.io/publication_types/0/</link>
-      <atom:link href="https://set-laboratory.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
-    <description>0</description>
+    <title>Mudabbir Kaleem | SET</title>
+    <link>https://set-laboratory.github.io/authors/mudabbir-kaleem/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/mudabbir-kaleem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mudabbir Kaleem</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jan 2021 11:22:09 -0600</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
-      <title>0</title>
-      <link>https://set-laboratory.github.io/publication_types/0/</link>
+      <title>Mudabbir Kaleem</title>
+      <link>https://set-laboratory.github.io/authors/mudabbir-kaleem/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://set-laboratory.github.io/publication/kaleem2021edsc/</link>
       <pubDate>Tue, 19 Jan 2021 11:22:09 -0600</pubDate>
       <guid>https://set-laboratory.github.io/publication/kaleem2021edsc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Secure Session on Mobile: An Exploration on Combining Biometric, TrustZone, and User Behavior</title>
-      <link>https://set-laboratory.github.io/publication/tao2014secure/</link>
-      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/tao2014secure/</guid>
       <description></description>
     </item>
     
