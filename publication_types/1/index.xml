@@ -5,12 +5,20 @@
     <link>https://set-laboratory.github.io/publication_types/1/</link>
       <atom:link href="https://set-laboratory.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 14:49:27 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Mar 2021 15:14:33 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://set-laboratory.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>A Game Theoretical Analysis of Non-Linear Blockchain System</title>
+      <link>https://set-laboratory.github.io/publication/chen2021game/</link>
+      <pubDate>Sun, 28 Mar 2021 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/chen2021game/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blockchain based End-to-end Tracking System for Distributed IoT Intelligence Application Security Enhancement</title>

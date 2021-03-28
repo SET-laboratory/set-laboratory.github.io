@@ -5,12 +5,20 @@
     <link>https://set-laboratory.github.io/authors/lei-xu/</link>
       <atom:link href="https://set-laboratory.github.io/authors/lei-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Lei Xu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Feb 2021 11:50:52 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Mar 2021 15:14:33 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Lei Xu</title>
       <link>https://set-laboratory.github.io/authors/lei-xu/</link>
     </image>
+    
+    <item>
+      <title>A Game Theoretical Analysis of Non-Linear Blockchain System</title>
+      <link>https://set-laboratory.github.io/publication/chen2021game/</link>
+      <pubDate>Sun, 28 Mar 2021 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/chen2021game/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Secure and Flexible FPGA-Based Blockchain System for the IIoT</title>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ahmed Sunny | SET</title>
-    <link>https://set-laboratory.github.io/authors/ahmed-sunny/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/ahmed-sunny/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ahmed Sunny</description>
+    <title>Keshav Kasichainula and Weidong Shi | SET</title>
+    <link>https://set-laboratory.github.io/authors/keshav-kasichainula-and-weidong-shi/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/keshav-kasichainula-and-weidong-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keshav Kasichainula and Weidong Shi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Mar 2021 15:14:33 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
-      <title>Ahmed Sunny</title>
-      <link>https://set-laboratory.github.io/authors/ahmed-sunny/</link>
+      <title>Keshav Kasichainula and Weidong Shi</title>
+      <link>https://set-laboratory.github.io/authors/keshav-kasichainula-and-weidong-shi/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://set-laboratory.github.io/publication/chen2021game/</link>
       <pubDate>Sun, 28 Mar 2021 15:14:33 -0500</pubDate>
       <guid>https://set-laboratory.github.io/publication/chen2021game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational complexity characterization of protecting elections from bribery</title>
-      <link>https://set-laboratory.github.io/publication/chen2020computational/</link>
-      <pubDate>Fri, 23 Oct 2020 20:15:17 -0500</pubDate>
-      <guid>https://set-laboratory.github.io/publication/chen2020computational/</guid>
       <description></description>
     </item>
     

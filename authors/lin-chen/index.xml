@@ -5,12 +5,20 @@
     <link>https://set-laboratory.github.io/authors/lin-chen/</link>
       <atom:link href="https://set-laboratory.github.io/authors/lin-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Lin Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jan 2021 11:22:09 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Mar 2021 15:14:33 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Lin Chen</title>
       <link>https://set-laboratory.github.io/authors/lin-chen/</link>
     </image>
+    
+    <item>
+      <title>A Game Theoretical Analysis of Non-Linear Blockchain System</title>
+      <link>https://set-laboratory.github.io/publication/chen2021game/</link>
+      <pubDate>Sun, 28 Mar 2021 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/chen2021game/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>EDSC: An Event-Driven Smart Contract Platform</title>
