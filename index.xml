@@ -5,12 +5,20 @@
     <link>https://set-laboratory.github.io/</link>
       <atom:link href="https://set-laboratory.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SET</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Apr 2021 22:06:56 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 May 2021 11:50:52 -0600</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>SET</title>
       <link>https://set-laboratory.github.io/</link>
     </image>
+    
+    <item>
+      <title>Reshaping the Landscape of the Future: Software-Defined Manufacturing</title>
+      <link>https://set-laboratory.github.io/publication/lei2021reshaping/</link>
+      <pubDate>Sat, 29 May 2021 11:50:52 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2021reshaping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>XSEDE</title>

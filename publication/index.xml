@@ -5,12 +5,20 @@
     <link>https://set-laboratory.github.io/publication/</link>
       <atom:link href="https://set-laboratory.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Mar 2021 15:14:33 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 May 2021 11:50:52 -0600</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Publications</title>
       <link>https://set-laboratory.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Reshaping the Landscape of the Future: Software-Defined Manufacturing</title>
+      <link>https://set-laboratory.github.io/publication/lei2021reshaping/</link>
+      <pubDate>Sat, 29 May 2021 11:50:52 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/publication/lei2021reshaping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Game Theoretical Analysis of Non-Linear Blockchain System</title>
