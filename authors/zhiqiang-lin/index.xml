@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhiqiang Lin | SET</title>
-    <link>https://set-laboratory.github.io/authors/zhiqiang-lin/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/zhiqiang-lin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://xuleimath.github.io/authors/zhiqiang-lin/</link>
+      <atom:link href="http://xuleimath.github.io/authors/zhiqiang-lin/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhiqiang Lin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>http://xuleimath.github.io/img/icon-192.png</url>
       <title>Zhiqiang Lin</title>
-      <link>https://set-laboratory.github.io/authors/zhiqiang-lin/</link>
+      <link>http://xuleimath.github.io/authors/zhiqiang-lin/</link>
     </image>
     
     <item>
       <title>Enhancing Software Dependability and Security with Hardware Supported Instruction Address Space Randomization</title>
-      <link>https://set-laboratory.github.io/publication/kim2015enhancing/</link>
+      <link>http://xuleimath.github.io/publication/kim2015enhancing/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/kim2015enhancing/</guid>
+      <guid>http://xuleimath.github.io/publication/kim2015enhancing/</guid>
       <description></description>
     </item>
     

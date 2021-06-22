@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hanyee Kim | SET</title>
-    <link>https://set-laboratory.github.io/authors/hanyee-kim/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/hanyee-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://xuleimath.github.io/authors/hanyee-kim/</link>
+      <atom:link href="http://xuleimath.github.io/authors/hanyee-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Hanyee Kim</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Feb 2021 11:50:52 -0600</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>http://xuleimath.github.io/img/icon-192.png</url>
       <title>Hanyee Kim</title>
-      <link>https://set-laboratory.github.io/authors/hanyee-kim/</link>
+      <link>http://xuleimath.github.io/authors/hanyee-kim/</link>
     </image>
     
     <item>
       <title>A Secure and Flexible FPGA-Based Blockchain System for the IIoT</title>
-      <link>https://set-laboratory.github.io/publication/kim2021secure/</link>
+      <link>http://xuleimath.github.io/publication/kim2021secure/</link>
       <pubDate>Sun, 14 Feb 2021 11:50:52 -0600</pubDate>
-      <guid>https://set-laboratory.github.io/publication/kim2021secure/</guid>
+      <guid>http://xuleimath.github.io/publication/kim2021secure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blockchain based End-to-end Tracking System for Distributed IoT Intelligence Application Security Enhancement</title>
-      <link>https://set-laboratory.github.io/publication/lei2020blockchain/</link>
+      <link>http://xuleimath.github.io/publication/lei2020blockchain/</link>
       <pubDate>Tue, 27 Oct 2020 14:49:27 -0500</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2020blockchain/</guid>
+      <guid>http://xuleimath.github.io/publication/lei2020blockchain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FPGA based Blockchain System for Industrial IoT</title>
-      <link>https://set-laboratory.github.io/publication/lei2020fpga/</link>
+      <link>http://xuleimath.github.io/publication/lei2020fpga/</link>
       <pubDate>Tue, 27 Oct 2020 14:45:40 -0500</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2020fpga/</guid>
+      <guid>http://xuleimath.github.io/publication/lei2020fpga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Privacy Preserving Large Scale DNA Read-mapping in MapReduce Framework using FPGAs</title>
-      <link>https://set-laboratory.github.io/publication/lei2014dna/</link>
+      <link>http://xuleimath.github.io/publication/lei2014dna/</link>
       <pubDate>Tue, 02 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2014dna/</guid>
+      <guid>http://xuleimath.github.io/publication/lei2014dna/</guid>
       <description></description>
     </item>
     

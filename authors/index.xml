@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | SET</title>
-    <link>https://set-laboratory.github.io/authors/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://xuleimath.github.io/authors/</link>
+      <atom:link href="http://xuleimath.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 May 2021 11:50:52 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 11:22:09 -0600</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>http://xuleimath.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://set-laboratory.github.io/authors/</link>
+      <link>http://xuleimath.github.io/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://set-laboratory.github.io/authors/lei/experience/</link>
+      <link>http://xuleimath.github.io/authors/lei/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/authors/lei/experience/</guid>
+      <guid>http://xuleimath.github.io/authors/lei/experience/</guid>
       <description>&lt;p&gt;widget = &amp;ldquo;experience&amp;rdquo;
 headless = true  # This file represents a page section.&lt;/p&gt;
 &lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
@@ -56,9 +56,9 @@ description = &amp;ldquo;&amp;ldquo;&amp;ldquo;Taught electronic engineering and
     
     <item>
       <title></title>
-      <link>https://set-laboratory.github.io/authors/lucas/experience/</link>
+      <link>http://xuleimath.github.io/authors/lucas/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/authors/lucas/experience/</guid>
+      <guid>http://xuleimath.github.io/authors/lucas/experience/</guid>
       <description>&lt;p&gt;widget = &amp;ldquo;experience&amp;rdquo;
 headless = true  # This file represents a page section.&lt;/p&gt;
 &lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
@@ -98,9 +98,9 @@ description = &amp;ldquo;&amp;ldquo;&amp;ldquo;Taught electronic engineering and
     
     <item>
       <title></title>
-      <link>https://set-laboratory.github.io/authors/luis/experience/</link>
+      <link>http://xuleimath.github.io/authors/luis/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/authors/luis/experience/</guid>
+      <guid>http://xuleimath.github.io/authors/luis/experience/</guid>
       <description>&lt;p&gt;widget = &amp;ldquo;experience&amp;rdquo;
 headless = true  # This file represents a page section.&lt;/p&gt;
 &lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
@@ -140,9 +140,9 @@ description = &amp;ldquo;&amp;ldquo;&amp;ldquo;Taught electronic engineering and
     
     <item>
       <title></title>
-      <link>https://set-laboratory.github.io/authors/raul/experience/</link>
+      <link>http://xuleimath.github.io/authors/raul/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/authors/raul/experience/</guid>
+      <guid>http://xuleimath.github.io/authors/raul/experience/</guid>
       <description>&lt;p&gt;widget = &amp;ldquo;experience&amp;rdquo;
 headless = true  # This file represents a page section.&lt;/p&gt;
 &lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;

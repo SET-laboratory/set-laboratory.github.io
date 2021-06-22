@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | SET</title>
-    <link>https://set-laboratory.github.io/project/</link>
-      <atom:link href="https://set-laboratory.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://xuleimath.github.io/project/</link>
+      <atom:link href="http://xuleimath.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>http://xuleimath.github.io/img/icon-192.png</url>
       <title>Projects</title>
-      <link>https://set-laboratory.github.io/project/</link>
+      <link>http://xuleimath.github.io/project/</link>
     </image>
     
     <item>
       <title>Secure Software-defined-x in Deep Space</title>
-      <link>https://set-laboratory.github.io/project/secure-software-defined-x-deep-space/</link>
+      <link>http://xuleimath.github.io/project/secure-software-defined-x-deep-space/</link>
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/project/secure-software-defined-x-deep-space/</guid>
+      <guid>http://xuleimath.github.io/project/secure-software-defined-x-deep-space/</guid>
       <description>&lt;p&gt;Software-defined-x is moving to everywhere, including in the deep space.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;SmartSat_LockheedMartin.jpg&#34; alt=&#34;SmartSat of LockheedMartin&#34;&gt;
 The SmartSat of Lockheed Martin.&lt;/p&gt;
@@ -25,9 +25,9 @@ The SmartSat of Lockheed Martin.&lt;/p&gt;
     
     <item>
       <title>AI Security</title>
-      <link>https://set-laboratory.github.io/project/ai-security/</link>
+      <link>http://xuleimath.github.io/project/ai-security/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/project/ai-security/</guid>
+      <guid>http://xuleimath.github.io/project/ai-security/</guid>
       <description>&lt;p&gt;AI is our future worker, and we need to provide a safe workspace for it.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;worker-safety.png&#34; alt=&#34;Safe workspace for AI&#34;&gt;&lt;/p&gt;
 </description>
@@ -35,18 +35,18 @@ The SmartSat of Lockheed Martin.&lt;/p&gt;
     
     <item>
       <title>Future Manufacturing</title>
-      <link>https://set-laboratory.github.io/project/future-manufacturing/</link>
+      <link>http://xuleimath.github.io/project/future-manufacturing/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/project/future-manufacturing/</guid>
+      <guid>http://xuleimath.github.io/project/future-manufacturing/</guid>
       <description>&lt;p&gt;The integration of the cyber world and physical world is accelerating, and we believe this is also the trend for future manufacturing.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Blockchain for IoT</title>
-      <link>https://set-laboratory.github.io/project/blockchain-iot/</link>
+      <link>http://xuleimath.github.io/project/blockchain-iot/</link>
       <pubDate>Fri, 29 Nov 2019 21:33:28 -0600</pubDate>
-      <guid>https://set-laboratory.github.io/project/blockchain-iot/</guid>
+      <guid>http://xuleimath.github.io/project/blockchain-iot/</guid>
       <description>&lt;p&gt;The distributed characteristic of IoT matches the decentralization nature of blockchain very well.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;blockchain-iot.jpg&#34; alt=&#34;Blockchain for IoT&#34;&gt;&lt;/p&gt;
 </description>

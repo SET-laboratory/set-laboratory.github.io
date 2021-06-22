@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shouhuai Xu | SET</title>
-    <link>https://set-laboratory.github.io/authors/shouhuai-xu/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/shouhuai-xu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://xuleimath.github.io/authors/shouhuai-xu/</link>
+      <atom:link href="http://xuleimath.github.io/authors/shouhuai-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Shouhuai Xu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 20:15:17 -0500</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>http://xuleimath.github.io/img/icon-192.png</url>
       <title>Shouhuai Xu</title>
-      <link>https://set-laboratory.github.io/authors/shouhuai-xu/</link>
+      <link>http://xuleimath.github.io/authors/shouhuai-xu/</link>
     </image>
     
     <item>
       <title>Computational complexity characterization of protecting elections from bribery</title>
-      <link>https://set-laboratory.github.io/publication/chen2020computational/</link>
+      <link>http://xuleimath.github.io/publication/chen2020computational/</link>
       <pubDate>Fri, 23 Oct 2020 20:15:17 -0500</pubDate>
-      <guid>https://set-laboratory.github.io/publication/chen2020computational/</guid>
+      <guid>http://xuleimath.github.io/publication/chen2020computational/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Election with bribe-effect uncertainty: A dichotomy result</title>
-      <link>https://set-laboratory.github.io/publication/lin2019uncertainty/</link>
+      <link>http://xuleimath.github.io/publication/lin2019uncertainty/</link>
       <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2019uncertainty/</guid>
+      <guid>http://xuleimath.github.io/publication/lin2019uncertainty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Election with Bribed Voter Uncertainty: Hardness and Approximation Algorithm</title>
-      <link>https://set-laboratory.github.io/publication/lin2019election/</link>
+      <link>http://xuleimath.github.io/publication/lin2019election/</link>
       <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2019election/</guid>
+      <guid>http://xuleimath.github.io/publication/lin2019election/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protecting Election from Bribery: New Approach and Computational Complexity Characterization</title>
-      <link>https://set-laboratory.github.io/publication/lin2018protecting/</link>
+      <link>http://xuleimath.github.io/publication/lin2018protecting/</link>
       <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lin2018protecting/</guid>
+      <guid>http://xuleimath.github.io/publication/lin2018protecting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Architectural Protection of Application Privacy against Software and Physical Attacks in Untrusted Cloud Environment</title>
-      <link>https://set-laboratory.github.io/publication/lei2015architectural/</link>
+      <link>http://xuleimath.github.io/publication/lei2015architectural/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2015architectural/</guid>
+      <guid>http://xuleimath.github.io/publication/lei2015architectural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Public Blockchain Client for Lightweight Users</title>
-      <link>https://set-laboratory.github.io/publication/lei2018lightweight/</link>
+      <link>http://xuleimath.github.io/publication/lei2018lightweight/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2018lightweight/</guid>
+      <guid>http://xuleimath.github.io/publication/lei2018lightweight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EPBC: Efficient Public Blockchain Client for lightweight users</title>
-      <link>https://set-laboratory.github.io/publication/lei2017epbc/</link>
+      <link>http://xuleimath.github.io/publication/lei2017epbc/</link>
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/lei2017epbc/</guid>
+      <guid>http://xuleimath.github.io/publication/lei2017epbc/</guid>
       <description></description>
     </item>
     

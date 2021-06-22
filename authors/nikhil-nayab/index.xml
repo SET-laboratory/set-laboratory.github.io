@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nikhil Nayab | SET</title>
-    <link>https://set-laboratory.github.io/authors/nikhil-nayab/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/nikhil-nayab/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://xuleimath.github.io/authors/nikhil-nayab/</link>
+      <atom:link href="http://xuleimath.github.io/authors/nikhil-nayab/index.xml" rel="self" type="application/rss+xml" />
     <description>Nikhil Nayab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>http://xuleimath.github.io/img/icon-192.png</url>
       <title>Nikhil Nayab</title>
-      <link>https://set-laboratory.github.io/authors/nikhil-nayab/</link>
+      <link>http://xuleimath.github.io/authors/nikhil-nayab/</link>
     </image>
     
     <item>
       <title>DAcc: Decentralized Ledger based Access Control for Enterprise Applications</title>
-      <link>https://set-laboratory.github.io/publication/markus2019dacc/</link>
+      <link>http://xuleimath.github.io/publication/markus2019dacc/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/markus2019dacc/</guid>
+      <guid>http://xuleimath.github.io/publication/markus2019dacc/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Han-Yee Kim | SET</title>
-    <link>https://set-laboratory.github.io/authors/han-yee-kim/</link>
-      <atom:link href="https://set-laboratory.github.io/authors/han-yee-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://xuleimath.github.io/authors/han-yee-kim/</link>
+      <atom:link href="http://xuleimath.github.io/authors/han-yee-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Han-Yee Kim</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <url>http://xuleimath.github.io/img/icon-192.png</url>
       <title>Han-Yee Kim</title>
-      <link>https://set-laboratory.github.io/authors/han-yee-kim/</link>
+      <link>http://xuleimath.github.io/authors/han-yee-kim/</link>
     </image>
     
     <item>
       <title>SafeDB: Spark Acceleration on FPGA Clouds with Enclaved Data Processing and Bitstream Protection</title>
-      <link>https://set-laboratory.github.io/publication/kim2019safedb/</link>
+      <link>http://xuleimath.github.io/publication/kim2019safedb/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/kim2019safedb/</guid>
+      <guid>http://xuleimath.github.io/publication/kim2019safedb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FPGALedger: FPGA based Decentralized Ledger for Enterprise Applications</title>
-      <link>https://set-laboratory.github.io/publication/kim2019fpgaledger/</link>
+      <link>http://xuleimath.github.io/publication/kim2019fpgaledger/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/kim2019fpgaledger/</guid>
+      <guid>http://xuleimath.github.io/publication/kim2019fpgaledger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FASTEN: An FPGA-based Secure System for Big Data Processing</title>
-      <link>https://set-laboratory.github.io/publication/hong2017fasten/</link>
+      <link>http://xuleimath.github.io/publication/hong2017fasten/</link>
       <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/publication/hong2017fasten/</guid>
+      <guid>http://xuleimath.github.io/publication/hong2017fasten/</guid>
       <description></description>
     </item>
     
