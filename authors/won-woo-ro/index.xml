@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Won Woo Ro | SET</title>
-    <link>http://xuleimath.github.io/authors/won-woo-ro/</link>
-      <atom:link href="http://xuleimath.github.io/authors/won-woo-ro/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/won-woo-ro/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/won-woo-ro/index.xml" rel="self" type="application/rss+xml" />
     <description>Won Woo Ro</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://xuleimath.github.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Won Woo Ro</title>
-      <link>http://xuleimath.github.io/authors/won-woo-ro/</link>
+      <link>https://set-laboratory.github.io/authors/won-woo-ro/</link>
     </image>
     
     <item>
       <title>Architectural Protection of Application Privacy against Software and Physical Attacks in Untrusted Cloud Environment</title>
-      <link>http://xuleimath.github.io/publication/lei2015architectural/</link>
+      <link>https://set-laboratory.github.io/publication/lei2015architectural/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://xuleimath.github.io/publication/lei2015architectural/</guid>
+      <guid>https://set-laboratory.github.io/publication/lei2015architectural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrity Protection for Big Data Processing with Dynamic Redundancy Computation</title>
-      <link>http://xuleimath.github.io/publication/gao2015integrity/</link>
+      <link>https://set-laboratory.github.io/publication/gao2015integrity/</link>
       <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>http://xuleimath.github.io/publication/gao2015integrity/</guid>
+      <guid>https://set-laboratory.github.io/publication/gao2015integrity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Another Look at Secure Big Data Processing: Formal Framework and a Potential Approach</title>
-      <link>http://xuleimath.github.io/publication/lei2015anotherlook/</link>
+      <link>https://set-laboratory.github.io/publication/lei2015anotherlook/</link>
       <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://xuleimath.github.io/publication/lei2015anotherlook/</guid>
+      <guid>https://set-laboratory.github.io/publication/lei2015anotherlook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing Software Dependability and Security with Hardware Supported Instruction Address Space Randomization</title>
-      <link>http://xuleimath.github.io/publication/kim2015enhancing/</link>
+      <link>https://set-laboratory.github.io/publication/kim2015enhancing/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>http://xuleimath.github.io/publication/kim2015enhancing/</guid>
+      <guid>https://set-laboratory.github.io/publication/kim2015enhancing/</guid>
       <description></description>
     </item>
     

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keshav Kasichainula | SET</title>
-    <link>http://xuleimath.github.io/authors/keshav-kasichainula/</link>
-      <atom:link href="http://xuleimath.github.io/authors/keshav-kasichainula/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/keshav-kasichainula/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/keshav-kasichainula/index.xml" rel="self" type="application/rss+xml" />
     <description>Keshav Kasichainula</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 11:22:09 -0600</lastBuildDate>
     <image>
-      <url>http://xuleimath.github.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Keshav Kasichainula</title>
-      <link>http://xuleimath.github.io/authors/keshav-kasichainula/</link>
+      <link>https://set-laboratory.github.io/authors/keshav-kasichainula/</link>
     </image>
     
     <item>
       <title>An event driven framework for smart contract execution</title>
-      <link>http://xuleimath.github.io/publication/kaleem2021event/</link>
+      <link>https://set-laboratory.github.io/publication/kaleem2021event/</link>
       <pubDate>Sat, 19 Jun 2021 11:22:09 -0600</pubDate>
-      <guid>http://xuleimath.github.io/publication/kaleem2021event/</guid>
+      <guid>https://set-laboratory.github.io/publication/kaleem2021event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EDSC: An Event-Driven Smart Contract Platform</title>
-      <link>http://xuleimath.github.io/publication/kaleem2021edsc/</link>
+      <link>https://set-laboratory.github.io/publication/kaleem2021edsc/</link>
       <pubDate>Tue, 19 Jan 2021 11:22:09 -0600</pubDate>
-      <guid>http://xuleimath.github.io/publication/kaleem2021edsc/</guid>
+      <guid>https://set-laboratory.github.io/publication/kaleem2021edsc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PrivateEx: Privacy Preserving Exchange of Crypto-assets on Blockchain</title>
-      <link>http://xuleimath.github.io/publication/lei2019privateex/</link>
+      <link>https://set-laboratory.github.io/publication/lei2019privateex/</link>
       <pubDate>Mon, 23 Dec 2019 23:58:27 -0600</pubDate>
-      <guid>http://xuleimath.github.io/publication/lei2019privateex/</guid>
+      <guid>https://set-laboratory.github.io/publication/lei2019privateex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Private and Atomic Exchange of Assets over Zero Knowledge Based Payment Ledger</title>
-      <link>http://xuleimath.github.io/publication/gao2018private/</link>
+      <link>https://set-laboratory.github.io/publication/gao2018private/</link>
       <pubDate>Sat, 14 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://xuleimath.github.io/publication/gao2018private/</guid>
+      <guid>https://set-laboratory.github.io/publication/gao2018private/</guid>
       <description></description>
     </item>
     

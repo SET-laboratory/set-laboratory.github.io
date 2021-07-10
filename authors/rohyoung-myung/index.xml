@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rohyoung Myung | SET</title>
-    <link>http://xuleimath.github.io/authors/rohyoung-myung/</link>
-      <atom:link href="http://xuleimath.github.io/authors/rohyoung-myung/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/rohyoung-myung/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/rohyoung-myung/index.xml" rel="self" type="application/rss+xml" />
     <description>Rohyoung Myung</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://xuleimath.github.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Rohyoung Myung</title>
-      <link>http://xuleimath.github.io/authors/rohyoung-myung/</link>
+      <link>https://set-laboratory.github.io/authors/rohyoung-myung/</link>
     </image>
     
     <item>
       <title>SafeDB: Spark Acceleration on FPGA Clouds with Enclaved Data Processing and Bitstream Protection</title>
-      <link>http://xuleimath.github.io/publication/kim2019safedb/</link>
+      <link>https://set-laboratory.github.io/publication/kim2019safedb/</link>
       <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://xuleimath.github.io/publication/kim2019safedb/</guid>
+      <guid>https://set-laboratory.github.io/publication/kim2019safedb/</guid>
       <description></description>
     </item>
     

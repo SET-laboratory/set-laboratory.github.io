@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6 | SET</title>
-    <link>http://xuleimath.github.io/publication_types/6/</link>
-      <atom:link href="http://xuleimath.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/publication_types/6/</link>
+      <atom:link href="https://set-laboratory.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://xuleimath.github.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>6</title>
-      <link>http://xuleimath.github.io/publication_types/6/</link>
+      <link>https://set-laboratory.github.io/publication_types/6/</link>
     </image>
     
     <item>
       <title>Security Theories and Practices for Big Data</title>
-      <link>http://xuleimath.github.io/publication/lei2016bigdata/</link>
+      <link>https://set-laboratory.github.io/publication/lei2016bigdata/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://xuleimath.github.io/publication/lei2016bigdata/</guid>
+      <guid>https://set-laboratory.github.io/publication/lei2016bigdata/</guid>
       <description></description>
     </item>
     

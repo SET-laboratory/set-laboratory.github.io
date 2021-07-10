@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Issac Markus | SET</title>
-    <link>http://xuleimath.github.io/authors/issac-markus/</link>
-      <atom:link href="http://xuleimath.github.io/authors/issac-markus/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/issac-markus/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/issac-markus/index.xml" rel="self" type="application/rss+xml" />
     <description>Issac Markus</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://xuleimath.github.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Issac Markus</title>
-      <link>http://xuleimath.github.io/authors/issac-markus/</link>
+      <link>https://set-laboratory.github.io/authors/issac-markus/</link>
     </image>
     
     <item>
       <title>DAcc: Decentralized Ledger based Access Control for Enterprise Applications</title>
-      <link>http://xuleimath.github.io/publication/markus2019dacc/</link>
+      <link>https://set-laboratory.github.io/publication/markus2019dacc/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://xuleimath.github.io/publication/markus2019dacc/</guid>
+      <guid>https://set-laboratory.github.io/publication/markus2019dacc/</guid>
       <description></description>
     </item>
     

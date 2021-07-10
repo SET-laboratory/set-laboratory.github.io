@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiaoxin Wu | SET</title>
-    <link>http://xuleimath.github.io/authors/xiaoxin-wu/</link>
-      <atom:link href="http://xuleimath.github.io/authors/xiaoxin-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://set-laboratory.github.io/authors/xiaoxin-wu/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/xiaoxin-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiaoxin Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://xuleimath.github.io/img/icon-192.png</url>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Xiaoxin Wu</title>
-      <link>http://xuleimath.github.io/authors/xiaoxin-wu/</link>
+      <link>https://set-laboratory.github.io/authors/xiaoxin-wu/</link>
     </image>
     
     <item>
       <title>ABSS: An Attribute-based Sanitizable Signature for Integrity of Outsourced Database with Public Cloud</title>
-      <link>http://xuleimath.github.io/publication/lei2015abss/</link>
+      <link>https://set-laboratory.github.io/publication/lei2015abss/</link>
       <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
-      <guid>http://xuleimath.github.io/publication/lei2015abss/</guid>
+      <guid>https://set-laboratory.github.io/publication/lei2015abss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hub: Heterogeneous Bucketization for Database Outsourcing</title>
-      <link>http://xuleimath.github.io/publication/lei2012hub/</link>
+      <link>https://set-laboratory.github.io/publication/lei2012hub/</link>
       <pubDate>Wed, 08 May 2013 00:00:00 +0000</pubDate>
-      <guid>http://xuleimath.github.io/publication/lei2012hub/</guid>
+      <guid>https://set-laboratory.github.io/publication/lei2012hub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CL-PRE: a Certificateless Proxy Re-Encryption Scheme for Secure Data Sharing with Public Cloud</title>
-      <link>http://xuleimath.github.io/publication/lei2012clpre/</link>
+      <link>https://set-laboratory.github.io/publication/lei2012clpre/</link>
       <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
-      <guid>http://xuleimath.github.io/publication/lei2012clpre/</guid>
+      <guid>https://set-laboratory.github.io/publication/lei2012clpre/</guid>
       <description></description>
     </item>
     
