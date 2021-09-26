@@ -5,12 +5,20 @@
     <link>https://set-laboratory.github.io/publication_types/2/</link>
       <atom:link href="https://set-laboratory.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 11:50:52 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 14:19:45 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://set-laboratory.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Computational Complexity Characterization of Protecting Elections from Bribery</title>
+      <link>https://set-laboratory.github.io/publication/chen2021computational/</link>
+      <pubDate>Sat, 25 Sep 2021 14:19:45 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/chen2021computational/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reshaping the Landscape of the Future: Software-Defined Manufacturing</title>

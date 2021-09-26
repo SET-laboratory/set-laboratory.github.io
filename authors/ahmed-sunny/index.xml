@@ -5,12 +5,20 @@
     <link>https://set-laboratory.github.io/authors/ahmed-sunny/</link>
       <atom:link href="https://set-laboratory.github.io/authors/ahmed-sunny/index.xml" rel="self" type="application/rss+xml" />
     <description>Ahmed Sunny</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 28 Mar 2021 15:14:33 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 14:19:45 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Ahmed Sunny</title>
       <link>https://set-laboratory.github.io/authors/ahmed-sunny/</link>
     </image>
+    
+    <item>
+      <title>Computational Complexity Characterization of Protecting Elections from Bribery</title>
+      <link>https://set-laboratory.github.io/publication/chen2021computational/</link>
+      <pubDate>Sat, 25 Sep 2021 14:19:45 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/chen2021computational/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Game Theoretical Analysis of Non-Linear Blockchain System</title>

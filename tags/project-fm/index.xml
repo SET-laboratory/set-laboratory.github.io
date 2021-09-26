@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project-fm | SET</title>
+    <link>https://set-laboratory.github.io/tags/project-fm/</link>
+      <atom:link href="https://set-laboratory.github.io/tags/project-fm/index.xml" rel="self" type="application/rss+xml" />
+    <description>project-fm</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>project-fm</title>
+      <link>https://set-laboratory.github.io/tags/project-fm/</link>
+    </image>
+    
+    <item>
+      <title>Future Manufacturing</title>
+      <link>https://set-laboratory.github.io/project/future-manufacturing/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/project/future-manufacturing/</guid>
+      <description>&lt;p&gt;The integration of the cyber world and physical world is accelerating, and we believe this is also the trend for future manufacturing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

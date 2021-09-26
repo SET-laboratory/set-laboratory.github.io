@@ -5,12 +5,20 @@
     <link>https://set-laboratory.github.io/project/</link>
       <atom:link href="https://set-laboratory.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 24 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 25 Aug 2021 23:18:57 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Projects</title>
       <link>https://set-laboratory.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Heterogeneous UV Swarm</title>
+      <link>https://set-laboratory.github.io/project/heterogeneous-swarm/</link>
+      <pubDate>Wed, 25 Aug 2021 23:18:57 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/project/heterogeneous-swarm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Secure Software-defined-x in Deep Space</title>
