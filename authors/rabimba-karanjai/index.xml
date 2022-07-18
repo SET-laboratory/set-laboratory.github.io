@@ -5,12 +5,28 @@
     <link>https://set-laboratory.github.io/authors/rabimba-karanjai/</link>
       <atom:link href="https://set-laboratory.github.io/authors/rabimba-karanjai/index.xml" rel="self" type="application/rss+xml" />
     <description>Rabimba Karanjai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 11:22:09 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2022 20:07:47 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Rabimba Karanjai</title>
       <link>https://set-laboratory.github.io/authors/rabimba-karanjai/</link>
     </image>
+    
+    <item>
+      <title>Decentralized Application Infrastructures as Smart Contract Codes</title>
+      <link>https://set-laboratory.github.io/publication/karanjai2022decentralized/</link>
+      <pubDate>Mon, 02 May 2022 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/karanjai2022decentralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Preserving Event based Transaction System in a Decentralized Environment</title>
+      <link>https://set-laboratory.github.io/publication/karanjai2021privacy/</link>
+      <pubDate>Mon, 06 Dec 2021 11:22:09 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/publication/karanjai2021privacy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Event Driven Framework for Smart Contract Execution</title>

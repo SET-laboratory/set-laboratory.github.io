@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alberto Velazquez | SET</title>
+    <link>https://set-laboratory.github.io/authors/alberto-velazquez/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/alberto-velazquez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alberto Velazquez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>Alberto Velazquez</title>
+      <link>https://set-laboratory.github.io/authors/alberto-velazquez/</link>
+    </image>
+    
+    <item>
+      <title>HUVS: Heterogeneous UV Swarm for Homeland Security Tasks</title>
+      <link>https://set-laboratory.github.io/publication/velazquez2021huvs/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/velazquez2021huvs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

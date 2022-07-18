@@ -5,12 +5,20 @@
     <link>https://set-laboratory.github.io/authors/xinxin-fan/</link>
       <atom:link href="https://set-laboratory.github.io/authors/xinxin-fan/index.xml" rel="self" type="application/rss+xml" />
     <description>Xinxin Fan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2020 14:49:27 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 20:07:47 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Xinxin Fan</title>
       <link>https://set-laboratory.github.io/authors/xinxin-fan/</link>
     </image>
+    
+    <item>
+      <title>New Gold Mine: Harvesting IoT Data Through DeFi in a Secure Manner</title>
+      <link>https://set-laboratory.github.io/publication/xu2021new/</link>
+      <pubDate>Fri, 10 Dec 2021 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/xu2021new/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Blockchain based End-to-end Tracking System for Distributed IoT Intelligence Application Security Enhancement</title>

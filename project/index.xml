@@ -26,18 +26,30 @@
       <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://set-laboratory.github.io/project/secure-software-defined-x-deep-space/</guid>
       <description>&lt;p&gt;Software-defined-x is moving to everywhere, including in the deep space.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;SmartSat_LockheedMartin.jpg&#34; alt=&#34;SmartSat of LockheedMartin&#34;&gt;
+
+&lt;p&gt;&lt;img src=&#34;SmartSat_LockheedMartin.jpg&#34; alt=&#34;SmartSat of LockheedMartin&#34; /&gt;
 The SmartSat of Lockheed Martin.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>AI Security</title>
+      <title>AI and Security</title>
       <link>https://set-laboratory.github.io/project/ai-security/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
       <guid>https://set-laboratory.github.io/project/ai-security/</guid>
       <description>&lt;p&gt;AI is our future worker, and we need to provide a safe workspace for it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;worker-safety.png&#34; alt=&#34;Safe workspace for AI&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;worker-safety.png&#34; alt=&#34;Safe workspace for AI&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crypto &amp; Silicon</title>
+      <link>https://set-laboratory.github.io/project/crypto-sillicon/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/project/crypto-sillicon/</guid>
+      <description>&lt;p&gt;Many wonderful cryptographic tools are developed but only a few have been adopted in practice.
+One of the challenge is performance, i.e., it is too expensive to use some of the fancy cryptographic tools.&lt;/p&gt;
 </description>
     </item>
     
@@ -56,7 +68,8 @@ The SmartSat of Lockheed Martin.&lt;/p&gt;
       <pubDate>Fri, 29 Nov 2019 21:33:28 -0600</pubDate>
       <guid>https://set-laboratory.github.io/project/blockchain-iot/</guid>
       <description>&lt;p&gt;The distributed characteristic of IoT matches the decentralization nature of blockchain very well.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;blockchain-iot.jpg&#34; alt=&#34;Blockchain for IoT&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;blockchain-iot.jpg&#34; alt=&#34;Blockchain for IoT&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

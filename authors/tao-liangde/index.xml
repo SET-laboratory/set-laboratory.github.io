@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tao Liangde | SET</title>
+    <link>https://set-laboratory.github.io/authors/tao-liangde/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/tao-liangde/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tao Liangde</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 15:14:33 -0500</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>Tao Liangde</title>
+      <link>https://set-laboratory.github.io/authors/tao-liangde/</link>
+    </image>
+    
+    <item>
+      <title>How Hard is Bribery in Elections with Randomly Selected Voters</title>
+      <link>https://set-laboratory.github.io/publication/tao2022hard/</link>
+      <pubDate>Mon, 09 May 2022 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/tao2022hard/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://set-laboratory.github.io/authors/</link>
       <atom:link href="https://set-laboratory.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 14:19:45 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 15:14:33 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,170 +13,645 @@
     </image>
     
     <item>
+      <title>Lei Xu</title>
+      <link>https://set-laboratory.github.io/authors/lei-xu/</link>
+      <pubDate>Mon, 09 May 2022 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/lei-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lin Chen</title>
+      <link>https://set-laboratory.github.io/authors/lin-chen/</link>
+      <pubDate>Mon, 09 May 2022 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/lin-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunny Ahmed</title>
+      <link>https://set-laboratory.github.io/authors/sunny-ahmed/</link>
+      <pubDate>Mon, 09 May 2022 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/sunny-ahmed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Liangde</title>
+      <link>https://set-laboratory.github.io/authors/tao-liangde/</link>
+      <pubDate>Mon, 09 May 2022 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/tao-liangde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weidong Shi</title>
+      <link>https://set-laboratory.github.io/authors/weidong-shi/</link>
+      <pubDate>Mon, 09 May 2022 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/weidong-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zaman Md Mahabub Uz</title>
+      <link>https://set-laboratory.github.io/authors/zaman-md-mahabub-uz/</link>
+      <pubDate>Mon, 09 May 2022 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/zaman-md-mahabub-uz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keshav Kasichainula</title>
+      <link>https://set-laboratory.github.io/authors/keshav-kasichainula/</link>
+      <pubDate>Mon, 02 May 2022 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/keshav-kasichainula/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mudabbir Kaleem</title>
+      <link>https://set-laboratory.github.io/authors/mudabbir-kaleem/</link>
+      <pubDate>Mon, 02 May 2022 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/mudabbir-kaleem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nour Diallo</title>
+      <link>https://set-laboratory.github.io/authors/nour-diallo/</link>
+      <pubDate>Mon, 02 May 2022 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/nour-diallo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rabimba Karanjai</title>
+      <link>https://set-laboratory.github.io/authors/rabimba-karanjai/</link>
+      <pubDate>Mon, 02 May 2022 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/rabimba-karanjai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucas Hall</title>
+      <link>https://set-laboratory.github.io/authors/lucas-hall/</link>
+      <pubDate>Fri, 10 Dec 2021 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/lucas-hall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qi Chai</title>
+      <link>https://set-laboratory.github.io/authors/qi-chai/</link>
+      <pubDate>Fri, 10 Dec 2021 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/qi-chai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinxin Fan</title>
+      <link>https://set-laboratory.github.io/authors/xinxin-fan/</link>
+      <pubDate>Fri, 10 Dec 2021 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/xinxin-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhimin Gao</title>
+      <link>https://set-laboratory.github.io/authors/zhimin-gao/</link>
+      <pubDate>Mon, 06 Dec 2021 11:22:09 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/authors/zhimin-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alberto Velazquez</title>
+      <link>https://set-laboratory.github.io/authors/alberto-velazquez/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/alberto-velazquez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorge Diaz</title>
+      <link>https://set-laboratory.github.io/authors/jorge-diaz/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/jorge-diaz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tohid Sardarmehni</title>
+      <link>https://set-laboratory.github.io/authors/tohid-sardarmehni/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/tohid-sardarmehni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fengwei Zhang</title>
+      <link>https://set-laboratory.github.io/authors/fengwei-zhang/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/fengwei-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karanjai Rabimba</title>
+      <link>https://set-laboratory.github.io/authors/karanjai-rabimba/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/karanjai-rabimba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ahmed Sunny</title>
+      <link>https://set-laboratory.github.io/authors/ahmed-sunny/</link>
+      <pubDate>Sat, 25 Sep 2021 14:19:45 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/ahmed-sunny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nolan Shah</title>
+      <link>https://set-laboratory.github.io/authors/nolan-shah/</link>
+      <pubDate>Sat, 25 Sep 2021 14:19:45 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/nolan-shah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shouhuai Xu</title>
+      <link>https://set-laboratory.github.io/authors/shouhuai-xu/</link>
+      <pubDate>Sat, 25 Sep 2021 14:19:45 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/shouhuai-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Lu</title>
+      <link>https://set-laboratory.github.io/authors/yang-lu/</link>
+      <pubDate>Sat, 25 Sep 2021 14:19:45 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/yang-lu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dian Huang</title>
+      <link>https://set-laboratory.github.io/authors/dian-huang/</link>
+      <pubDate>Mon, 16 Aug 2021 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/dian-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liangde Tao</title>
+      <link>https://set-laboratory.github.io/authors/liangde-tao/</link>
+      <pubDate>Mon, 16 Aug 2021 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/liangde-tao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hira Moya and Weidong Shi</title>
+      <link>https://set-laboratory.github.io/authors/hira-moya-and-weidong-shi/</link>
+      <pubDate>Thu, 01 Jul 2021 11:50:52 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/authors/hira-moya-and-weidong-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>https://set-laboratory.github.io/authors/lei/experience/</link>
+      <link>https://set-laboratory.github.io/authors/lei/</link>
+      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/lei/</guid>
+      <description>&lt;p&gt;Lei Xu is an assistant professor at Computer Science Department, Kent State University. His research interests include cryptography engineering, cloud/mobile/IoT security, blockchain, AI safety, and other security enhancement technologies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hanyee Kim</title>
+      <link>https://set-laboratory.github.io/authors/hanyee-kim/</link>
+      <pubDate>Sun, 14 Feb 2021 11:50:52 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/authors/hanyee-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taeweon Suh</title>
+      <link>https://set-laboratory.github.io/authors/taeweon-suh/</link>
+      <pubDate>Sun, 14 Feb 2021 11:50:52 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/authors/taeweon-suh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weidong Shi.</title>
+      <link>https://set-laboratory.github.io/authors/weidong-shi./</link>
+      <pubDate>Tue, 27 Oct 2020 14:45:40 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/weidong-shi./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Flores</title>
+      <link>https://set-laboratory.github.io/authors/martin-flores/</link>
+      <pubDate>Fri, 23 Oct 2020 20:35:52 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/martin-flores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xu Lei</title>
+      <link>https://set-laboratory.github.io/authors/xu-lei/</link>
+      <pubDate>Fri, 23 Oct 2020 20:35:52 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/xu-lei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dong Guo</title>
+      <link>https://set-laboratory.github.io/authors/dong-guo/</link>
+      <pubDate>Fri, 23 Oct 2020 20:34:06 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/dong-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Larry Carranco</title>
+      <link>https://set-laboratory.github.io/authors/larry-carranco/</link>
+      <pubDate>Fri, 23 Oct 2020 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/larry-carranco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martin Koutecky</title>
+      <link>https://set-laboratory.github.io/authors/martin-koutecky/</link>
+      <pubDate>Mon, 28 Sep 2020 20:12:04 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/authors/martin-koutecky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bogdan Carbunar</title>
+      <link>https://set-laboratory.github.io/authors/bogdan-carbunar/</link>
+      <pubDate>Mon, 23 Dec 2019 23:58:27 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/authors/bogdan-carbunar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Fernandez</title>
+      <link>https://set-laboratory.github.io/authors/miguel-fernandez/</link>
+      <pubDate>Mon, 23 Dec 2019 23:58:27 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/authors/miguel-fernandez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boeui Hong</title>
+      <link>https://set-laboratory.github.io/authors/boeui-hong/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/boeui-hong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Han-Yee Kim</title>
+      <link>https://set-laboratory.github.io/authors/han-yee-kim/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/han-yee-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heonchang Yu</title>
+      <link>https://set-laboratory.github.io/authors/heonchang-yu/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/heonchang-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rohyoung Myung</title>
+      <link>https://set-laboratory.github.io/authors/rohyoung-myung/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/rohyoung-myung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quang Tran</title>
+      <link>https://set-laboratory.github.io/authors/quang-tran/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/quang-tran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I Subhod</title>
+      <link>https://set-laboratory.github.io/authors/i-subhod/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/i-subhod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Issac Markus</title>
+      <link>https://set-laboratory.github.io/authors/issac-markus/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/issac-markus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikhil Nayab</title>
+      <link>https://set-laboratory.github.io/authors/nikhil-nayab/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/nikhil-nayab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleftherios Iakovou</title>
+      <link>https://set-laboratory.github.io/authors/eleftherios-iakovou/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/eleftherios-iakovou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yanling Chang</title>
+      <link>https://set-laboratory.github.io/authors/yanling-chang/</link>
+      <pubDate>Tue, 23 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/yanling-chang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ton-Chanh Le</title>
+      <link>https://set-laboratory.github.io/authors/ton-chanh-le/</link>
+      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/ton-chanh-le/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brijesh Patel</title>
+      <link>https://set-laboratory.github.io/authors/brijesh-patel/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/brijesh-patel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glenn Turner</title>
+      <link>https://set-laboratory.github.io/authors/glenn-turner/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/glenn-turner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abraham Bez Surez</title>
+      <link>https://set-laboratory.github.io/authors/abraham-bez-surez/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/abraham-bez-surez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JongHyuk Lee</title>
+      <link>https://set-laboratory.github.io/authors/jonghyuk-lee/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/jonghyuk-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qingji Zheng</title>
+      <link>https://set-laboratory.github.io/authors/qingji-zheng/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/qingji-zheng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seung Hun Kim</title>
+      <link>https://set-laboratory.github.io/authors/seung-hun-kim/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/seung-hun-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Won Woo Ro</title>
+      <link>https://set-laboratory.github.io/authors/won-woo-ro/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/won-woo-ro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xi Zhao</title>
+      <link>https://set-laboratory.github.io/authors/xi-zhao/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/xi-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minsu Kim</title>
+      <link>https://set-laboratory.github.io/authors/minsu-kim/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/minsu-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunhee Kong</title>
+      <link>https://set-laboratory.github.io/authors/sunhee-kong/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/sunhee-kong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Massoud Masoumi</title>
+      <link>https://set-laboratory.github.io/authors/massoud-masoumi/</link>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/massoud-masoumi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicholas Desalvo</title>
+      <link>https://set-laboratory.github.io/authors/nicholas-desalvo/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/nicholas-desalvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pham Dang Khoa</title>
+      <link>https://set-laboratory.github.io/authors/pham-dang-khoa/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/pham-dang-khoa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rakesh M Verma</title>
+      <link>https://set-laboratory.github.io/authors/rakesh-m-verma/</link>
+      <pubDate>Tue, 07 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/rakesh-m-verma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiqiang Lin</title>
+      <link>https://set-laboratory.github.io/authors/zhiqiang-lin/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/zhiqiang-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziyi Liu</title>
+      <link>https://set-laboratory.github.io/authors/ziyi-liu/</link>
+      <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/ziyi-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiaoxin Wu</title>
+      <link>https://set-laboratory.github.io/authors/xiaoxin-wu/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/xiaoxin-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinwen Zhang</title>
+      <link>https://set-laboratory.github.io/authors/xinwen-zhang/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/xinwen-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Feng</title>
+      <link>https://set-laboratory.github.io/authors/tao-feng/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/tao-feng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xi Wang</title>
+      <link>https://set-laboratory.github.io/authors/xi-wang/</link>
+      <pubDate>Thu, 06 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/xi-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dainis Boumber</title>
+      <link>https://set-laboratory.github.io/authors/dainis-boumber/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/dainis-boumber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ricardo Vilalta</title>
+      <link>https://set-laboratory.github.io/authors/ricardo-vilalta/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/ricardo-vilalta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuanfeng Wen</title>
+      <link>https://set-laboratory.github.io/authors/yuanfeng-wen/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/yuanfeng-wen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dongdai Lin</title>
+      <link>https://set-laboratory.github.io/authors/dongdai-lin/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/dongdai-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jing Zou</title>
+      <link>https://set-laboratory.github.io/authors/jing-zou/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/jing-zou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://set-laboratory.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/authors/lei/experience/</guid>
-      <description>&lt;p&gt;widget = &amp;ldquo;experience&amp;rdquo;
-headless = true  # This file represents a page section.&lt;/p&gt;
-&lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
-&lt;h1 id=&#34;date-format-for-experience&#34;&gt;Date format for experience&lt;/h1&gt;
-&lt;h1 id=&#34;refer-to-httpssourcethemescomacademicdocscustomizationdate-format&#34;&gt;Refer to &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#date-format&#34;&gt;https://sourcethemes.com/academic/docs/customization/#date-format&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;date_format = &amp;ldquo;Jan 2006&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;experiences&#34;&gt;Experiences.&lt;/h1&gt;
-&lt;h1 id=&#34;addremove-as-many-experience-blocks-below-as-you-like&#34;&gt;Add/remove as many &lt;code&gt;[[experience]]&lt;/code&gt; blocks below as you like.&lt;/h1&gt;
-&lt;h1 id=&#34;required-fields-are-title-company-and-date_start&#34;&gt;Required fields are &lt;code&gt;title&lt;/code&gt;, &lt;code&gt;company&lt;/code&gt;, and &lt;code&gt;date_start&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;leave-date_end-empty-if-its-your-current-employer&#34;&gt;Leave &lt;code&gt;date_end&lt;/code&gt; empty if it&amp;rsquo;s your current employer.&lt;/h1&gt;
-&lt;h1 id=&#34;beginend-multi-line-descriptions-with-3-quotes-&#34;&gt;Begin/end multi-line descriptions with 3 quotes &lt;code&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;[[experience]]
-title = &amp;ldquo;CEO&amp;rdquo;
-company = &amp;ldquo;GenCoin&amp;rdquo;
-company_url = &amp;quot;&amp;rdquo;
-location = &amp;ldquo;California&amp;rdquo;
-date_start = &amp;ldquo;2017-01-01&amp;rdquo;
-date_end = &amp;quot;&amp;rdquo;
-description = &amp;quot;&amp;rdquo;&amp;rdquo;
-Responsibilities include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Analysing&lt;/li&gt;
-&lt;li&gt;Modelling&lt;/li&gt;
-&lt;li&gt;Deploying
-&amp;quot;&amp;rdquo;&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[[experience]]
-title = &amp;ldquo;Professor&amp;rdquo;
-company = &amp;ldquo;University X&amp;rdquo;
-company_url = &amp;quot;&amp;rdquo;
-location = &amp;ldquo;California&amp;rdquo;
-date_start = &amp;ldquo;2016-01-01&amp;rdquo;
-date_end = &amp;ldquo;2016-12-31&amp;rdquo;
-description = &amp;ldquo;&amp;ldquo;&amp;ldquo;Taught electronic engineering and researched semiconductor physics.&amp;rdquo;&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+      <guid>https://set-laboratory.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://set-laboratory.github.io/authors/lucas/experience/</link>
+      <link>https://set-laboratory.github.io/authors/lucas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/authors/lucas/experience/</guid>
-      <description>&lt;p&gt;widget = &amp;ldquo;experience&amp;rdquo;
-headless = true  # This file represents a page section.&lt;/p&gt;
-&lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
-&lt;h1 id=&#34;date-format-for-experience&#34;&gt;Date format for experience&lt;/h1&gt;
-&lt;h1 id=&#34;refer-to-httpssourcethemescomacademicdocscustomizationdate-format&#34;&gt;Refer to &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#date-format&#34;&gt;https://sourcethemes.com/academic/docs/customization/#date-format&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;date_format = &amp;ldquo;Jan 2006&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;experiences&#34;&gt;Experiences.&lt;/h1&gt;
-&lt;h1 id=&#34;addremove-as-many-experience-blocks-below-as-you-like&#34;&gt;Add/remove as many &lt;code&gt;[[experience]]&lt;/code&gt; blocks below as you like.&lt;/h1&gt;
-&lt;h1 id=&#34;required-fields-are-title-company-and-date_start&#34;&gt;Required fields are &lt;code&gt;title&lt;/code&gt;, &lt;code&gt;company&lt;/code&gt;, and &lt;code&gt;date_start&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;leave-date_end-empty-if-its-your-current-employer&#34;&gt;Leave &lt;code&gt;date_end&lt;/code&gt; empty if it&amp;rsquo;s your current employer.&lt;/h1&gt;
-&lt;h1 id=&#34;beginend-multi-line-descriptions-with-3-quotes-&#34;&gt;Begin/end multi-line descriptions with 3 quotes &lt;code&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;[[experience]]
-title = &amp;ldquo;CEO&amp;rdquo;
-company = &amp;ldquo;GenCoin&amp;rdquo;
-company_url = &amp;quot;&amp;rdquo;
-location = &amp;ldquo;California&amp;rdquo;
-date_start = &amp;ldquo;2017-01-01&amp;rdquo;
-date_end = &amp;quot;&amp;rdquo;
-description = &amp;quot;&amp;rdquo;&amp;rdquo;
-Responsibilities include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Analysing&lt;/li&gt;
-&lt;li&gt;Modelling&lt;/li&gt;
-&lt;li&gt;Deploying
-&amp;quot;&amp;rdquo;&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[[experience]]
-title = &amp;ldquo;Professor&amp;rdquo;
-company = &amp;ldquo;University X&amp;rdquo;
-company_url = &amp;quot;&amp;rdquo;
-location = &amp;ldquo;California&amp;rdquo;
-date_start = &amp;ldquo;2016-01-01&amp;rdquo;
-date_end = &amp;ldquo;2016-12-31&amp;rdquo;
-description = &amp;ldquo;&amp;ldquo;&amp;ldquo;Taught electronic engineering and researched semiconductor physics.&amp;rdquo;&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+      <guid>https://set-laboratory.github.io/authors/lucas/</guid>
+      <description>&lt;p&gt;Lucas Hall is a graduate student of the Computer Science Department, University of Texas Rio Grande Valley. His research interests include hardware-based secure machine learning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://set-laboratory.github.io/authors/luis/experience/</link>
+      <link>https://set-laboratory.github.io/authors/luis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/authors/luis/experience/</guid>
-      <description>&lt;p&gt;widget = &amp;ldquo;experience&amp;rdquo;
-headless = true  # This file represents a page section.&lt;/p&gt;
-&lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
-&lt;h1 id=&#34;date-format-for-experience&#34;&gt;Date format for experience&lt;/h1&gt;
-&lt;h1 id=&#34;refer-to-httpssourcethemescomacademicdocscustomizationdate-format&#34;&gt;Refer to &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#date-format&#34;&gt;https://sourcethemes.com/academic/docs/customization/#date-format&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;date_format = &amp;ldquo;Jan 2006&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;experiences&#34;&gt;Experiences.&lt;/h1&gt;
-&lt;h1 id=&#34;addremove-as-many-experience-blocks-below-as-you-like&#34;&gt;Add/remove as many &lt;code&gt;[[experience]]&lt;/code&gt; blocks below as you like.&lt;/h1&gt;
-&lt;h1 id=&#34;required-fields-are-title-company-and-date_start&#34;&gt;Required fields are &lt;code&gt;title&lt;/code&gt;, &lt;code&gt;company&lt;/code&gt;, and &lt;code&gt;date_start&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;leave-date_end-empty-if-its-your-current-employer&#34;&gt;Leave &lt;code&gt;date_end&lt;/code&gt; empty if it&amp;rsquo;s your current employer.&lt;/h1&gt;
-&lt;h1 id=&#34;beginend-multi-line-descriptions-with-3-quotes-&#34;&gt;Begin/end multi-line descriptions with 3 quotes &lt;code&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;[[experience]]
-title = &amp;ldquo;CEO&amp;rdquo;
-company = &amp;ldquo;GenCoin&amp;rdquo;
-company_url = &amp;quot;&amp;rdquo;
-location = &amp;ldquo;California&amp;rdquo;
-date_start = &amp;ldquo;2017-01-01&amp;rdquo;
-date_end = &amp;quot;&amp;rdquo;
-description = &amp;quot;&amp;rdquo;&amp;rdquo;
-Responsibilities include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Analysing&lt;/li&gt;
-&lt;li&gt;Modelling&lt;/li&gt;
-&lt;li&gt;Deploying
-&amp;quot;&amp;rdquo;&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[[experience]]
-title = &amp;ldquo;Professor&amp;rdquo;
-company = &amp;ldquo;University X&amp;rdquo;
-company_url = &amp;quot;&amp;rdquo;
-location = &amp;ldquo;California&amp;rdquo;
-date_start = &amp;ldquo;2016-01-01&amp;rdquo;
-date_end = &amp;ldquo;2016-12-31&amp;rdquo;
-description = &amp;ldquo;&amp;ldquo;&amp;ldquo;Taught electronic engineering and researched semiconductor physics.&amp;rdquo;&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+      <guid>https://set-laboratory.github.io/authors/luis/</guid>
+      <description>&lt;p&gt;Luis Romo is a graduate student of the Computer Science Department, University of Texas Rio Grande Valley. His research interests include machine learning, and machine learning for cybersecurity.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://set-laboratory.github.io/authors/raul/experience/</link>
+      <link>https://set-laboratory.github.io/authors/raul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://set-laboratory.github.io/authors/raul/experience/</guid>
-      <description>&lt;p&gt;widget = &amp;ldquo;experience&amp;rdquo;
-headless = true  # This file represents a page section.&lt;/p&gt;
-&lt;h1 id=&#34;-put-your-section-options-here-title-etc-&#34;&gt;&amp;hellip; Put Your Section Options Here (title etc.) &amp;hellip;&lt;/h1&gt;
-&lt;h1 id=&#34;date-format-for-experience&#34;&gt;Date format for experience&lt;/h1&gt;
-&lt;h1 id=&#34;refer-to-httpssourcethemescomacademicdocscustomizationdate-format&#34;&gt;Refer to &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#date-format&#34;&gt;https://sourcethemes.com/academic/docs/customization/#date-format&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;date_format = &amp;ldquo;Jan 2006&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;experiences&#34;&gt;Experiences.&lt;/h1&gt;
-&lt;h1 id=&#34;addremove-as-many-experience-blocks-below-as-you-like&#34;&gt;Add/remove as many &lt;code&gt;[[experience]]&lt;/code&gt; blocks below as you like.&lt;/h1&gt;
-&lt;h1 id=&#34;required-fields-are-title-company-and-date_start&#34;&gt;Required fields are &lt;code&gt;title&lt;/code&gt;, &lt;code&gt;company&lt;/code&gt;, and &lt;code&gt;date_start&lt;/code&gt;.&lt;/h1&gt;
-&lt;h1 id=&#34;leave-date_end-empty-if-its-your-current-employer&#34;&gt;Leave &lt;code&gt;date_end&lt;/code&gt; empty if it&amp;rsquo;s your current employer.&lt;/h1&gt;
-&lt;h1 id=&#34;beginend-multi-line-descriptions-with-3-quotes-&#34;&gt;Begin/end multi-line descriptions with 3 quotes &lt;code&gt;&amp;quot;&amp;quot;&amp;quot;&lt;/code&gt;.&lt;/h1&gt;
-&lt;p&gt;[[experience]]
-title = &amp;ldquo;CEO&amp;rdquo;
-company = &amp;ldquo;GenCoin&amp;rdquo;
-company_url = &amp;quot;&amp;rdquo;
-location = &amp;ldquo;California&amp;rdquo;
-date_start = &amp;ldquo;2017-01-01&amp;rdquo;
-date_end = &amp;quot;&amp;rdquo;
-description = &amp;quot;&amp;rdquo;&amp;rdquo;
-Responsibilities include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Analysing&lt;/li&gt;
-&lt;li&gt;Modelling&lt;/li&gt;
-&lt;li&gt;Deploying
-&amp;quot;&amp;rdquo;&amp;rdquo;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;[[experience]]
-title = &amp;ldquo;Professor&amp;rdquo;
-company = &amp;ldquo;University X&amp;rdquo;
-company_url = &amp;quot;&amp;rdquo;
-location = &amp;ldquo;California&amp;rdquo;
-date_start = &amp;ldquo;2016-01-01&amp;rdquo;
-date_end = &amp;ldquo;2016-12-31&amp;rdquo;
-description = &amp;ldquo;&amp;ldquo;&amp;ldquo;Taught electronic engineering and researched semiconductor physics.&amp;rdquo;&amp;rdquo;&amp;rdquo;&lt;/p&gt;
+      <guid>https://set-laboratory.github.io/authors/raul/</guid>
+      <description>&lt;p&gt;Raul Martinez is a graduate student of the Computer Science Department, University of Texas Rio Grande Valley. His research interests include machine learning and AI safety.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://set-laboratory.github.io/authors/set/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/authors/set/</guid>
+      <description>&lt;p&gt;Security has become one of the core values of the cyber world.&lt;/p&gt;
+
+&lt;p&gt;We look at various aspects of security, including
+&lt;font color=&#34;#dd0000&#34;&gt;&lt;b&gt;I&lt;/b&gt;ntegrity&lt;/font&gt;,
+&lt;font color=&#34;#fcbf02&#34;&gt;&lt;b&gt;A&lt;/b&gt;uthenticity&lt;/font&gt;,
+&lt;font color=&#34;#44546b&#34;&gt;&lt;b&gt;A&lt;/b&gt;vailability&lt;/font&gt;,
+&lt;font color=&#34;#4472c7&#34;&gt;&lt;b&gt;P&lt;/b&gt;rivacy&lt;/font&gt;,
+&lt;font color=&#34;#70ad46&#34;&gt;&lt;b&gt;C&lt;/b&gt;onfidentiality&lt;/font&gt;, and
+&lt;font color=&#34;#7030a0&#34;&gt;&lt;b&gt;V&lt;/b&gt;erifiability&lt;/font&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are looking for motivated students to join us.
+Feel free to contact setlab.cs@gmail.com if you are interested.&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>https://set-laboratory.github.io/authors/zhimin-gao/</link>
       <atom:link href="https://set-laboratory.github.io/authors/zhimin-gao/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhimin Gao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 14:19:45 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Dec 2021 11:22:09 -0600</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Zhimin Gao</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Privacy Preserving Event based Transaction System in a Decentralized Environment</title>
+      <link>https://set-laboratory.github.io/publication/karanjai2021privacy/</link>
+      <pubDate>Mon, 06 Dec 2021 11:22:09 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/publication/karanjai2021privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons Learned from Blockchain Applications of Trusted Execution Environments and Implications for Future Research</title>
+      <link>https://set-laboratory.github.io/publication/rabimba2021lessons/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/rabimba2021lessons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computational Complexity Characterization of Protecting Elections from Bribery</title>
       <link>https://set-laboratory.github.io/publication/chen2021computational/</link>
       <pubDate>Sat, 25 Sep 2021 14:19:45 -0500</pubDate>
       <guid>https://set-laboratory.github.io/publication/chen2021computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardness and Algorithms for Electoral Manipulation Under Media Influence</title>
+      <link>https://set-laboratory.github.io/publication/tao2021hardness/</link>
+      <pubDate>Mon, 16 Aug 2021 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/tao2021hardness/</guid>
       <description></description>
     </item>
     

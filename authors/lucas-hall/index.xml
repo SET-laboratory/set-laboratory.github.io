@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Hall | SET</title>
+    <link>https://set-laboratory.github.io/authors/lucas-hall/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/lucas-hall/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lucas Hall</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Dec 2021 20:07:47 -0500</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>Lucas Hall</title>
+      <link>https://set-laboratory.github.io/authors/lucas-hall/</link>
+    </image>
+    
+    <item>
+      <title>New Gold Mine: Harvesting IoT Data Through DeFi in a Secure Manner</title>
+      <link>https://set-laboratory.github.io/publication/xu2021new/</link>
+      <pubDate>Fri, 10 Dec 2021 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/xu2021new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

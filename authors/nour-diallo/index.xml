@@ -5,12 +5,20 @@
     <link>https://set-laboratory.github.io/authors/nour-diallo/</link>
       <atom:link href="https://set-laboratory.github.io/authors/nour-diallo/index.xml" rel="self" type="application/rss+xml" />
     <description>Nour Diallo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Oct 2020 20:07:47 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2022 20:07:47 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Nour Diallo</title>
       <link>https://set-laboratory.github.io/authors/nour-diallo/</link>
     </image>
+    
+    <item>
+      <title>Decentralized Application Infrastructures as Smart Contract Codes</title>
+      <link>https://set-laboratory.github.io/publication/karanjai2022decentralized/</link>
+      <pubDate>Mon, 02 May 2022 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/karanjai2022decentralized/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Supporting Blockchain-Based Cryptocurrency Mobile Payment With Smart Devices</title>

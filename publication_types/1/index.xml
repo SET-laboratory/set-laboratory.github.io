@@ -5,12 +5,68 @@
     <link>https://set-laboratory.github.io/publication_types/1/</link>
       <atom:link href="https://set-laboratory.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 11:22:09 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 15:14:33 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://set-laboratory.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>How Hard is Bribery in Elections with Randomly Selected Voters</title>
+      <link>https://set-laboratory.github.io/publication/tao2022hard/</link>
+      <pubDate>Mon, 09 May 2022 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/tao2022hard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decentralized Application Infrastructures as Smart Contract Codes</title>
+      <link>https://set-laboratory.github.io/publication/karanjai2022decentralized/</link>
+      <pubDate>Mon, 02 May 2022 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/karanjai2022decentralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Gold Mine: Harvesting IoT Data Through DeFi in a Secure Manner</title>
+      <link>https://set-laboratory.github.io/publication/xu2021new/</link>
+      <pubDate>Fri, 10 Dec 2021 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/xu2021new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Preserving Event based Transaction System in a Decentralized Environment</title>
+      <link>https://set-laboratory.github.io/publication/karanjai2021privacy/</link>
+      <pubDate>Mon, 06 Dec 2021 11:22:09 -0600</pubDate>
+      <guid>https://set-laboratory.github.io/publication/karanjai2021privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HUVS: Heterogeneous UV Swarm for Homeland Security Tasks</title>
+      <link>https://set-laboratory.github.io/publication/velazquez2021huvs/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/velazquez2021huvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lessons Learned from Blockchain Applications of Trusted Execution Environments and Implications for Future Research</title>
+      <link>https://set-laboratory.github.io/publication/rabimba2021lessons/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/rabimba2021lessons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardness and Algorithms for Electoral Manipulation Under Media Influence</title>
+      <link>https://set-laboratory.github.io/publication/tao2021hardness/</link>
+      <pubDate>Mon, 16 Aug 2021 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/tao2021hardness/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Event Driven Framework for Smart Contract Execution</title>
@@ -73,6 +129,14 @@
       <link>https://set-laboratory.github.io/publication/chen2020computational/</link>
       <pubDate>Fri, 23 Oct 2020 20:15:17 -0500</pubDate>
       <guid>https://set-laboratory.github.io/publication/chen2020computational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Bounds on Augmenting Steps of Block-Structured Integer Programs</title>
+      <link>https://set-laboratory.github.io/publication/chen2020new/</link>
+      <pubDate>Mon, 28 Sep 2020 20:12:04 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/chen2020new/</guid>
       <description></description>
     </item>
     

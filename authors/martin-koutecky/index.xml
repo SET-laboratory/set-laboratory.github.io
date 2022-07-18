@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Koutecky | SET</title>
+    <link>https://set-laboratory.github.io/authors/martin-koutecky/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/martin-koutecky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Koutecky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2020 20:12:04 -0500</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>Martin Koutecky</title>
+      <link>https://set-laboratory.github.io/authors/martin-koutecky/</link>
+    </image>
+    
+    <item>
+      <title>New Bounds on Augmenting Steps of Block-Structured Integer Programs</title>
+      <link>https://set-laboratory.github.io/publication/chen2020new/</link>
+      <pubDate>Mon, 28 Sep 2020 20:12:04 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/chen2020new/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

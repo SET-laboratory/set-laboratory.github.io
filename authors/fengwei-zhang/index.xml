@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fengwei Zhang | SET</title>
+    <link>https://set-laboratory.github.io/authors/fengwei-zhang/</link>
+      <atom:link href="https://set-laboratory.github.io/authors/fengwei-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fengwei Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://set-laboratory.github.io/img/icon-192.png</url>
+      <title>Fengwei Zhang</title>
+      <link>https://set-laboratory.github.io/authors/fengwei-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Lessons Learned from Blockchain Applications of Trusted Execution Environments and Implications for Future Research</title>
+      <link>https://set-laboratory.github.io/publication/rabimba2021lessons/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://set-laboratory.github.io/publication/rabimba2021lessons/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

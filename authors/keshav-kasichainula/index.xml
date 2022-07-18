@@ -5,7 +5,7 @@
     <link>https://set-laboratory.github.io/authors/keshav-kasichainula/</link>
       <atom:link href="https://set-laboratory.github.io/authors/keshav-kasichainula/index.xml" rel="self" type="application/rss+xml" />
     <description>Keshav Kasichainula</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 11:22:09 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2022 20:07:47 -0500</lastBuildDate>
     <image>
       <url>https://set-laboratory.github.io/img/icon-192.png</url>
       <title>Keshav Kasichainula</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Decentralized Application Infrastructures as Smart Contract Codes</title>
+      <link>https://set-laboratory.github.io/publication/karanjai2022decentralized/</link>
+      <pubDate>Mon, 02 May 2022 20:07:47 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/karanjai2022decentralized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An Event Driven Framework for Smart Contract Execution</title>
       <link>https://set-laboratory.github.io/publication/kaleem2021event/</link>
       <pubDate>Sat, 19 Jun 2021 11:22:09 -0600</pubDate>
       <guid>https://set-laboratory.github.io/publication/kaleem2021event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Game Theoretical Analysis of Non-Linear Blockchain System</title>
+      <link>https://set-laboratory.github.io/publication/chen2021game/</link>
+      <pubDate>Sun, 28 Mar 2021 15:14:33 -0500</pubDate>
+      <guid>https://set-laboratory.github.io/publication/chen2021game/</guid>
       <description></description>
     </item>
     
